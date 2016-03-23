@@ -1,0 +1,36 @@
+{
+    "cards": [
+        {
+            "card": "(Organic) machinery."
+            "category": "1"
+        },
+        {
+            "card": "A line has two sides."
+            "category": "2"
+        },
+        {
+            "card": "A very small object - Its centre."
+            "category": "3"
+        },
+        {
+            "card": "Abandon desire."
+            "category": "4"
+        },
+        {
+            "card": "Abandon normal instructions."
+            "category": "5"
+        },
+        {
+            "card": "Accept advice."
+            "category": "6"
+        },
+        {
+            "card": "Accretion."
+            "category": "7"
+        },
+        {
+            "card": "Adding on."
+            "category": "8"
+        }
+    ]
+}
