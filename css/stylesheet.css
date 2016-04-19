@@ -18,12 +18,25 @@ a {
 	z-index: 999;
 }
 
+.prompt-cards {
+	width: 50%;
+	margin: 0 auto;
+	height: 100%;
+	text-align: center;
+}
+
 .container-2 {
 	width: 100%;
-	/* top: 800px; */
 	height: 800px;
 	background-attachment: fixed;
 	background: white;
 	opacity: 1;
 	z-index: 999;
+}
+
+.action-cards {
+	width: 50%;
+	margin: 0 auto;
+	height: 100%;
+	text-align: center;
 }
