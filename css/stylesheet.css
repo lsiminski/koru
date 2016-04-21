@@ -198,6 +198,10 @@ footer b {
 	color: #005AAA;
 }
 
+footer a {
+	color: black;
+}
+
 .invisible {
 	opacity: 0;
 	color: transparent;
