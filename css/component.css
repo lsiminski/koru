@@ -90,17 +90,22 @@ button {
 	top: 8%;
 	border: none;
 	padding: 8px 20px 7px 20px;
-	background: #1F1F1F;
+	background: #1f1f1f;
 	color: #fff;
 	display: inline-block;
 	width: 56px;
 	height: 46px;
 	/* margin: 8% 0 0 0; */
+	outline: none;
 	/* border-radius: 2px; */
 }
 
+button:focus {
+	outline: none;
+}
+
 button:hover {
-	background: #111111;
+	background: #1f1f1f;
 }
 
 /*

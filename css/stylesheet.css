@@ -1,3 +1,9 @@
+body { 
+  background: #fff;
+  height: 100%;
+  width: 100%;
+}
+
 a {
 	text-decoration: none;
 }
@@ -10,33 +16,189 @@ a {
 	padding: 13px 0;
 }
 
+/*
 .container-1 {
 	width: 100%;
-	height: 800px;
-	background-attachment: fixed;
-	background:-webkit-linear-gradient(#3ff3ff 0%, #511bf4 100%);
+	height: 100%;
 	z-index: 999;
 }
+*/
+
+.question {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-weight: 700;
+	position: fixed;
+	top: 8%;
+	right: 55px;
+	padding: 12px 0 0 0;
+	z-index: 999;
+	color: #005AAA;
+}
+
+.black-question {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-weight: 700;
+	position: fixed;
+	top: 8%;
+	right: 55px;
+	padding: 12px 0 0 0;
+	z-index: 999;
+	color: #1F1F1F;
+}
+
+.category {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #1F1F1F;
+	text-align: center;
+	position: fixed;
+	top: 8%;
+	left: 30%;
+	width: 40%;
+	padding: 12px 0 0 0;
+	z-index: 999;
+}
+
+.certo {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #005AAA;
+	text-align: center;
+	position: fixed;
+	top: 8%;
+	left: 30%;
+	width: 40%;
+	padding: 12px 0 0 0;
+	z-index: 999;
+}
+
 
 .prompt-cards {
-	width: 50%;
-	margin: 0 auto;
-	height: 100%;
+	font-family: 'Roboto';
+	line-height: 56px;
+	font-weight: 300;
+	font-size: 40px;
 	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%); 
+	padding-bottom: 40px;
 }
 
-.container-2 {
+/*
+.prompt-cards {
+	position: relative;
+	top: 8%;
+	width: 40%;
+	margin: 0 auto;
+	padding: 70px 0 90px 0;
+	text-align: center;
+}
+*/
+
+.prompt {
+	padding: 0 0 75px 0;
+	color: white;
+}
+
+.action {
+	padding: 0 0 75px 0;
+	color: #1f1f1f; 
+}
+
+.struggles {
+	width: 30%;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%); 
+	padding-bottom: 80px;
+}
+
+.struggles img {
+	max-width: 300px;
 	width: 100%;
-	height: 800px;
-	background-attachment: fixed;
-	background: white;
-	opacity: 1;
-	z-index: 999;
+	height: auto;
 }
 
-.action-cards {
-	width: 50%;
+.certo-option {
+	position: fixed;
+	bottom: 8%;
+	width: 100%;
 	margin: 0 auto;
-	height: 100%;
+	padding: 30px 0 0 0;
 	text-align: center;
+}
+
+.goto-certo {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: white;
+	padding: 50px 0 12px 0;
+}
+
+.goto-certo a {
+	color: white;
+}
+
+.goto-prompt {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: #005AAA;
+	padding: 50px 0 12px 0;
+}
+
+.goto-prompt a {
+	color: #005AAA;
+}
+
+.about-links {
+	font-family: 'Roboto';
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	color: black;
+	position: fixed;
+	bottom: 45px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+	right: 5%;
+}
+
+.about-links ul {
+	display: inline;
+	text-decoration: none;
+	padding: 0;
+	margin: 0;
+}
+
+.about-links li {
+	display: inline;
+	padding: 0 2%;
+	margin: 0;
+}
+
+footer b {
+	color: #005AAA;
+}
+
+.invisible {
+	opacity: 0;
+	color: transparent;
 }
