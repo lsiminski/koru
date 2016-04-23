@@ -93,7 +93,7 @@ padding: 0;
 .mobile-stay-updated {
 	position: absolute;
 	width: 50%;
-	margin: 250px 25% 0 25%;
+	margin: 230px 25% 0 25%;
 }
 
 /*
@@ -181,7 +181,7 @@ padding: 0;
 }
 
 .blue-block {
-	background: #005AAA;
+	background: -webkit-linear-gradient(#005AAA 0%, #2FB4D2 100%);
 	position: relative;
 	margin: -5px 0 0 0;
 	padding: 15px;
