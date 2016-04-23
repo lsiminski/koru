@@ -124,10 +124,14 @@ a {
 	font-size: 15.5px;
 	line-height: 24px;
 	letter-spacing: 0.3px;
-	text-align: justify;
+	text-align: left;
 	color: #2FB4D2;
 	font-weight: 700;
 	margin: 20px 0;
+}
+
+iframe {
+	padding: 5px 0 20px 0;
 }
 
 
