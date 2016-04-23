@@ -5,13 +5,138 @@
 @media screen and (max-width: 900px) {
 
 body { 
-  background: blue;
+  background: white;
   height: 100%;
   width: 100%;
 }
 
 a {
 	text-decoration: none;
+}
+
+.st-container {
+	visibility: hidden;
+}
+
+.mobile-container {
+	visibility: visible;
+}
+
+.mobile-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	width: 100%;
+	height: 46px;
+	background: #1F1F1F;
+	/*
+-webkit-transition: all 0.5s;
+	transition: all 0.5s;
+*/
+	display: inline;
+}
+
+.mobile-logo {
+	position: fixed;
+	top: 15px;
+	left: 40px;
+	display: inline;
+	width: 40%;
+}
+
+.mobile-links {
+	width: 40%;
+	display: inline;
+	position: fixed;
+	top: 17px;
+	right: 40px;
+	text-align: right;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-family: 'Montserrat';
+	font-size: 13px;
+}
+
+.mobile-links a {
+	color: white;
+}
+
+.mobile-header ul {
+	display: inline;
+}
+
+.mobile-header li {
+	display: inline;
+	padding: 0 0 0 25px;
+	
+}
+
+.mobile-cc-col2 {
+	z-index: 999;
+}
+
+.mobile-cc-col2 img {
+	width: 100%;
+	height: 500px;
+	top: 46px;
+	right: 0;
+	object-fit: cover;
+}
+
+.mobile-content {
+	width: 84%;
+	margin: 15px auto -800px auto;
+}
+
+.mobile-content p {
+	font-family: 'Roboto';
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+	padding: 0;
+	margin: 0;
+	text-align: justify;
+}
+
+.mobile-about-links {
+	font-family: 'Roboto';
+	font-size: 13px;
+	letter-spacing: 0.1px;
+	color: black;
+	margin: 30px auto 0 auto;
+	/* background: pink; */
+	text-align: left;
+	padding: 20px 0 40px 0;
+	z-index: 1;
+	/*
+-webkit-transform: translate(-50%,0); 
+	-moz-transform: translate(-50%,0); 
+	transform: translate(-50%,0);
+*/
+}
+
+.mobile-about-links a {
+	/* text-align: left; */
+	text-decoration: none;
+	color: black;
+	margin-right: 28px;
+	padding: 0 0 3px 0;
+	line-height: 30px;
+}
+
+.mobile-about-links b {
+	color: #005AAA;
+}
+
+.mobile-about-links a:hover {
+	border-bottom: 3px #005AAA solid;
+}
+
+.mobile-about-links p {
+	padding: 0;
+	margin: 0;
 }
 
 .title-logo {

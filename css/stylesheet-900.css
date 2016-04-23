@@ -8,6 +8,14 @@ a {
 	text-decoration: none;
 }
 
+.st-container {
+	visibility: visible;
+}
+
+.mobile-container {
+	visibility: hidden;
+}
+
 .title-logo {
 	position: fixed;
 	height: 46px;
