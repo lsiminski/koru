@@ -87,7 +87,7 @@ a {
 
 .mobile-content {
 	width: 84%;
-	margin: 15px auto -525px auto;
+	margin: 25px auto 40px auto;
 }
 
 .mobile-content p {
@@ -98,6 +98,36 @@ a {
 	padding: 0;
 	margin: 0;
 	text-align: justify;
+}
+
+.mobile-content p + p {
+	padding: 20px 0 0 0;
+}
+
+.mobile-content2 {
+	width: 84%;
+	margin: 15px auto 30px auto;
+}
+
+.mobile-content2 p {
+	font-family: 'Roboto';
+	font-size: 14px;
+	line-height: 24px;
+	color: black;
+	padding: 0;
+	margin: 0;
+	text-align: justify;
+}
+
+.koru-caption {
+	font-family: 'Roboto';
+	font-size: 15.5px;
+	line-height: 24px;
+	letter-spacing: 0.3px;
+	text-align: justify;
+	color: #2FB4D2;
+	font-weight: 700;
+	margin: 20px 0;
 }
 
 
