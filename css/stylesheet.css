@@ -75,12 +75,12 @@ a {
 
 .mobile-cc-col2 {
 	z-index: 999;
+	top: 46px;
 }
 
 .mobile-cc-col2 img {
 	width: 100%;
 	height: 500px;
-	top: 46px;
 	right: 0;
 	object-fit: cover;
 }
