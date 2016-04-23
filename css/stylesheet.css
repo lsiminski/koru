@@ -42,15 +42,15 @@ a {
 	top: 15px;
 	left: 40px;
 	display: inline;
-	width: 40%;
+	width: 30%;
 }
 
 .mobile-links {
-	width: 40%;
+	width: 50%;
 	display: inline;
 	position: fixed;
 	top: 17px;
-	right: 40px;
+	right: 50px;
 	text-align: right;
 	color: white;
 	text-transform: uppercase;
@@ -87,7 +87,7 @@ a {
 
 .mobile-content {
 	width: 84%;
-	margin: 15px auto -800px auto;
+	margin: 15px auto -525px auto;
 }
 
 .mobile-content p {
@@ -100,44 +100,6 @@ a {
 	text-align: justify;
 }
 
-.mobile-about-links {
-	font-family: 'Roboto';
-	font-size: 13px;
-	letter-spacing: 0.1px;
-	color: black;
-	margin: 30px auto 0 auto;
-	/* background: pink; */
-	text-align: left;
-	padding: 20px 0 40px 0;
-	z-index: 1;
-	/*
--webkit-transform: translate(-50%,0); 
-	-moz-transform: translate(-50%,0); 
-	transform: translate(-50%,0);
-*/
-}
-
-.mobile-about-links a {
-	/* text-align: left; */
-	text-decoration: none;
-	color: black;
-	margin-right: 28px;
-	padding: 0 0 3px 0;
-	line-height: 30px;
-}
-
-.mobile-about-links b {
-	color: #005AAA;
-}
-
-.mobile-about-links a:hover {
-	border-bottom: 3px #005AAA solid;
-}
-
-.mobile-about-links p {
-	padding: 0;
-	margin: 0;
-}
 
 .title-logo {
 	position: fixed;
