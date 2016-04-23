@@ -1,11 +1,5 @@
-@import url("stylesheet-1040.css");
-
-@import url("stylesheet-900.css") (max-width: 1040px);
-
-@media screen and (max-width: 900px) {
-
 body { 
-  background: blue;
+  background: white;
   height: 100%;
   width: 100%;
 }
@@ -271,7 +265,7 @@ footer a {
 }
 
 .cc-col1 p {
-	width: 55%;
+	width: 62%;
 	font-family: 'Roboto';
 	font-size: 14px;
 	line-height: 24px;
@@ -286,7 +280,7 @@ footer a {
 }
 
 .cc-col2 img {
-	width: 40%;
+	width: 34%;
 	height: 100%;
 	top: 0;
 	right: 0;
@@ -352,6 +346,4 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 14px;
-}
-
 }
