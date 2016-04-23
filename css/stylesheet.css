@@ -130,15 +130,24 @@ a {
 	height: auto;
 }
 
+.blue-block {
+	background: #005AAA;
+	position: relative;
+	margin: -5px 0 0 0;
+	padding: 15px;
+}
+
 .koru-caption {
 	font-family: 'Roboto';
 	font-size: 26px;
 	line-height: 38px;
 	letter-spacing: 0.4px;
 	text-align: left;
-	color: #2FB4D2;
+	color: white;
 	font-weight: 700;
-	margin: 20px 0;
+	margin: 20px auto;
+	width: 84%;
+	left: 8%;
 }
 
 iframe {
