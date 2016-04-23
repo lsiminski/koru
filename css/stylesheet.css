@@ -110,12 +110,12 @@ padding: 0;
 }
 
 .mobile-social {
-	padding: 15px 0;
+	padding: 20px 0;
 	text-align: center;
 }
 
 .mobile-social a + a {
-	padding: 0 0 0 20px;
+	padding: 0 0 0 30px;
 }
 
 /*
