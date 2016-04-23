@@ -20,6 +20,7 @@ a {
 
 .mobile-container {
 	visibility: visible;
+	margin: 0 0 -700px 0;
 }
 
 .mobile-header {
