@@ -119,6 +119,11 @@ padding: 0;
 	text-align: center;
 }
 
+.mobile-social img {
+	height: 20px;
+	width: auto;
+}
+
 .mobile-social a + a {
 	padding: 0 0 0 30px;
 }
