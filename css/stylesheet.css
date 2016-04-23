@@ -132,17 +132,17 @@ a {
 
 .koru-caption {
 	font-family: 'Roboto';
-	font-size: 15.5px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 28px;
 	letter-spacing: 0.3px;
 	text-align: left;
 	color: #2FB4D2;
-	font-weight: 700;
+	font-weight: 400;
 	margin: 20px 0;
 }
 
 iframe {
-	padding: 5px 0 20px 0;
+	padding: 10px 0 25px 0;
 }
 
 
