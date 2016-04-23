@@ -140,12 +140,12 @@ a {
 .koru-caption {
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-height: 30px;
+	line-height: 36px;
 	letter-spacing: 0.4px;
 	text-align: center;
 	color: white;
 	font-weight: 400;
-	margin: 45px auto;
+	margin: 50px auto;
 	width: 80%;
 	left: 10%;
 }
