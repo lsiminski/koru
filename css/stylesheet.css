@@ -90,10 +90,40 @@ padding: 0;
 	object-fit: cover;
 }
 
+.mobile-stay-updated {
+	position: absolute;
+	width: 50%;
+	margin: 250px 25% 0 25%;
+}
+
+/*
+.mobile-lets-play {
+	position: absolute;
+	width: 50%;
+	margin: 250px 25%;
+}
+*/
+
+.mobile-lets-play img {
+	width: 100%;
+	height: auto;
+}
+
+.mobile-social {
+	padding: 15px 0;
+	text-align: center;
+}
+
+.mobile-social a + a {
+	padding: 0 0 0 20px;
+}
+
+/*
 .mobile-cc-col3 {
 	z-index: 999;
 	height: 600px;
 }
+*/
 
 .mobile-cc-col3 img {
 	width: 100%;
