@@ -119,6 +119,17 @@ a {
 	text-align: justify;
 }
 
+.mobile-struggles {
+	position: absolute;
+	width: 50%;
+	margin: 250px 25%;
+}
+
+.mobile-struggles img {
+	width: 100%;
+	height: auto;
+}
+
 .koru-caption {
 	font-family: 'Roboto';
 	font-size: 15.5px;
