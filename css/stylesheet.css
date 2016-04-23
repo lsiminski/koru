@@ -50,6 +50,11 @@ padding: 0;
 	width: 30%;
 }
 
+.mobile-logo img {
+	height: 16px;
+	width: auto;
+}
+
 .mobile-links {
 	width: 50%;
 	display: inline;
