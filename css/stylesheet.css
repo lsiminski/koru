@@ -316,12 +316,12 @@ iframe {
 
 .mobile-container .prompt-cards {
 	font-family: 'Roboto';
-	line-height: 50px;
+	line-height: 46px;
 	font-weight: 300;
-	font-size: 36px;
+	font-size: 32px;
 	text-align: center;
 	position: relative;
-	top: 140px;
+	top: 130px;
 	left: 0;
 	-webkit-transform: translate(0,0); 
 	-moz-transform: translate(0,0); 
@@ -348,7 +348,7 @@ iframe {
 }
 
 .mobile-container .prompt {
-	padding: 0 0 50px 0;
+	padding: 0 0 40px 0;
 	color: white;
 }
 
@@ -389,7 +389,7 @@ iframe {
 	/* bottom: 8%; */
 	width: 100%;
 	margin: 0 auto;
-	padding: 120px 0 0 0;
+	padding: 110px 0 0 0;
 	text-align: center;
 }
 
