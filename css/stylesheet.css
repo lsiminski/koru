@@ -321,7 +321,7 @@ iframe {
 	font-size: 36px;
 	text-align: center;
 	position: relative;
-	top: 160px;
+	top: 140px;
 	left: 0;
 	-webkit-transform: translate(0,0); 
 	-moz-transform: translate(0,0); 
@@ -347,8 +347,8 @@ iframe {
 	color: white;
 }
 
-.st-container .prompt {
-	padding: 0 0 75px 0;
+.mobile-container .prompt {
+	padding: 0 0 50px 0;
 	color: white;
 }
 
@@ -389,7 +389,7 @@ iframe {
 	/* bottom: 8%; */
 	width: 100%;
 	margin: 0 auto;
-	padding: 160px 0 0 0;
+	padding: 120px 0 0 0;
 	text-align: center;
 }
 
