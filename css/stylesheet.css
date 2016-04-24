@@ -5,7 +5,7 @@
 @media screen and (max-width: 900px) {
 
 body { 
-  background: white;
+  background: yellow;
   height: 100%;
   width: 100%;
 }
@@ -243,7 +243,7 @@ iframe {
 	color: #005AAA;
 }
 
-.black-question {
+.st-container .black-question {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	font-weight: 700;
@@ -254,6 +254,19 @@ iframe {
 	z-index: 999;
 	color: #1F1F1F;
 }
+
+.mobile-container .black-question {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	font-weight: 700;
+	position: fixed;
+	top: 8%;
+	right: 40px;
+	padding: 12px 0 0 0;
+	z-index: 999;
+	color: #1F1F1F;
+}
+
 
 .category {
 	font-family: 'Montserrat';
@@ -286,7 +299,7 @@ iframe {
 }
 
 
-.prompt-cards {
+.st-container .prompt-cards {
 	font-family: 'Roboto';
 	line-height: 56px;
 	font-weight: 300;
@@ -301,6 +314,23 @@ iframe {
 	padding-bottom: 40px;
 }
 
+.mobile-container .prompt-cards {
+	font-family: 'Roboto';
+	line-height: 56px;
+	font-weight: 300;
+	font-size: 40px;
+	text-align: center;
+	position: relative;
+	top: 160px;
+	left: 0;
+	-webkit-transform: translate(0,0); 
+	-moz-transform: translate(0,0); 
+	transform: translate(0,0); 
+	padding-bottom: 40px;
+	width: 84%;
+	margin: 0 auto;
+}
+
 /*
 .prompt-cards {
 	position: relative;
@@ -312,7 +342,12 @@ iframe {
 }
 */
 
-.prompt {
+.st-container .prompt {
+	padding: 0 0 75px 0;
+	color: white;
+}
+
+.st-container .prompt {
 	padding: 0 0 75px 0;
 	color: white;
 }
@@ -340,7 +375,7 @@ iframe {
 	height: auto;
 }
 
-.certo-option {
+.st-container .certo-option {
 	position: fixed;
 	bottom: 8%;
 	width: 100%;
@@ -349,7 +384,16 @@ iframe {
 	text-align: center;
 }
 
-.goto-certo {
+.mobile-container .certo-option {
+	position: relative;
+	/* bottom: 8%; */
+	width: 100%;
+	margin: 0 auto;
+	padding: 160px 0 0 0;
+	text-align: center;
+}
+
+.st-container .goto-certo {
 	font-family: 'Montserrat';
 	font-size: 10px;
 	text-transform: uppercase;
@@ -358,7 +402,7 @@ iframe {
 	padding: 50px 0 12px 0;
 }
 
-.goto-certo a {
+.st-container .goto-certo a {
 	color: white;
 }
 
@@ -542,7 +586,7 @@ footer a {
 .koru-turquoise {
 	color: #2FB4D2;
 	padding: 20px 0 5px 0;
-	margin: 0;
+	margin: 0;file:///Users/Lauren/Documents/koru/img/846023.jpg
 	font-family: 'Roboto';
 	font-size: 14px;
 }
