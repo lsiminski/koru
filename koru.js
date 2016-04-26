@@ -1,12 +1,22 @@
 
 $.getJSON('koru.json', function(data) { 
     
-  var randomCard = data.cards[Math.floor(Math.random()*data.cards.length)];
+  var randomCard = data.promptcards[Math.floor(Math.random()*data.promptcards.length)];
   console.log(randomCard.card);
-  $("#koru_cards p").text(randomCard.card);
+  $("#prompt p").text(randomCard.card);
+    
+});
+    
+  var randomCard = data.actioncards[Math.floor(Math.random()*data.actioncards.length)];
+  console.log(randomCard.card);
+  $("#action p").text(randomCard.card);
     
 });
 
-$('#koru_cards').click(function() {
+$('#prompt').click(function() {
+  document.location.reload(true);
+});
+
+$('#action').click(function() {
   document.location.reload(true);
 });
