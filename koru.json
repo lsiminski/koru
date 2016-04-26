@@ -1015,10 +1015,8 @@
             "category": "Certo"
             "icons": "img/icons2.png"
         }
-    ]
-}
-
-{
+    ];
+    
     "actioncards": [
         {
         	"number": "1"
