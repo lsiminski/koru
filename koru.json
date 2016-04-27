@@ -5,70 +5,70 @@
         	"background": "#FFCD2F",
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "2",
         	"background": "#FFCD2F",
             "card": "Do you fold your clothes right out of the dryer?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "3",
         	"background": "#FFCD2F",
             "card": "Do you split your oreos in half before eating them?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "4",
         	"background": "#FFCD2F",
             "card": "Where is the furthest place you’ve traveled?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "5",
         	"background": "#FFCD2F",
             "card": "How many siblings do you have?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "6",
         	"background": "#FFCD2F",
             "card": "How many kids do or did you want?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "7",
         	"background": "#FFCD2F",
             "card": "Who is your biggest role model?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "8",
         	"background": "#FFCD2F",
             "card": "Do you typically overpack or underpack for a trip?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "9",
         	"background": "#FFCD2F",
             "card": "Exactly how many photos do you have stored on your phone right now?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         },
         {
         	"number": "10",
         	"background": "#FFCD2F",
             "card": "Do you get uncomfortable when people talk about religion or politics?",
             "category": "Anima",
-            "icons": "img/icons1.png",
+            "icons": "img/icons1.png"
         }
         /*
 {
