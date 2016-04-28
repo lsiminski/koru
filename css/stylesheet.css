@@ -14,11 +14,11 @@ a {
 	text-decoration: none;
 	opacity: 1;
 	transition: all .3s ease;
-	opacity: .3;
 }
 
 a:hover {
 	cursor: hand;
+	opacity: .3;
 }
 
 .st-container {
