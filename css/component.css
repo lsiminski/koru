@@ -18,7 +18,7 @@ body,
 .st-container,
 .st-pusher,
 .st-content {
-	height: 100%;
+	height: auto;
 }
 
 .st-content {

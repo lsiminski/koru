@@ -1,6 +1,6 @@
 body { 
   background: white;
-  height: 100%;
+  height: auto;
   width: 100%;
 }
 
@@ -17,7 +17,7 @@ a {
 }
 
 .title-logo {
-	position: fixed;
+	position: absolute;
 	height: 46px;
 	top: 8%;
 	left: 80px;
@@ -32,11 +32,23 @@ a {
 }
 */
 
+.temp-container {
+	width: 100%;
+	height: auto;
+	position: absolute;
+}
+
+.under-container {
+	background: white;
+	width: 100%;
+	position: relative;
+}
+
 .question {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	font-weight: 700;
-	position: fixed;
+	position: absolute;
 	top: 8%;
 	right: 55px;
 	padding: 12px 0 0 0;
@@ -48,7 +60,7 @@ a {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	font-weight: 700;
-	position: fixed;
+	position: absolute;
 	top: 8%;
 	right: 55px;
 	padding: 12px 0 0 0;
@@ -63,7 +75,7 @@ a {
 	letter-spacing: 1px;
 	color: #1F1F1F;
 	text-align: center;
-	position: fixed;
+	position: absolute;
 	top: 8%;
 	left: 30%;
 	width: 40%;
@@ -78,7 +90,7 @@ a {
 	letter-spacing: 1px;
 	color: #005AAA;
 	text-align: center;
-	position: fixed;
+	position: absolute;
 	top: 8%;
 	left: 30%;
 	width: 40%;
@@ -93,7 +105,7 @@ a {
 	font-weight: 300;
 	font-size: 40px;
 	text-align: center;
-	position: fixed;
+	position: absolute;
 	top: 50%;
 	left: 50%;
 	-webkit-transform: translate(-50%,-50%); 
@@ -126,7 +138,7 @@ a {
 .struggles {
 	width: 30%;
 	text-align: center;
-	position: fixed;
+	position: absolute;
 	top: 50%;
 	left: 50%;
 	-webkit-transform: translate(-50%,-50%); 
@@ -142,7 +154,7 @@ a {
 }
 
 .certo-option {
-	position: fixed;
+	position: absolute;
 	bottom: 8%;
 	width: 100%;
 	margin: 0 auto;
