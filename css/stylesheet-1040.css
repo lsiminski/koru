@@ -75,6 +75,21 @@ a:hover {
 	z-index: 999;
 }
 
+.certocategory {
+	font-family: 'Montserrat';
+	font-size: 16px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #005AAA;
+	text-align: center;
+	position: fixed;
+	top: 8%;
+	left: 30%;
+	width: 40%;
+	padding: 12px 0 0 0;
+	z-index: 999;
+}
+
 .certo {
 	font-family: 'Montserrat';
 	font-size: 16px;
@@ -111,6 +126,11 @@ a:hover {
 	width: auto;
 }
 
+.othericons img {
+	height: 36px;
+	width: auto;
+}
+
 /*
 .prompt-cards {
 	position: relative;
@@ -125,6 +145,11 @@ a:hover {
 .prompt {
 	padding: 0 0 75px 0;
 	color: white;
+}
+
+.certoaction {
+	padding: 0 0 75px 0;
+	color: #1e1e1e;
 }
 
 .action {

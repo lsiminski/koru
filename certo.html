@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en" class="random">
 	<head>
 		<!-- File Setup -->
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<script src="js/modernizr.custom.js"></script>
 		<!-- Title, Fonts, Favicon -->
 		<title>KORU</title>
@@ -16,7 +16,42 @@
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
 </head>
 
-<body>
+<body class="random">
+
+<div class="mobile-container">
+	<div class="mobile-header">
+		<div class="mobile-logo">
+		<a href="#"><img src="img/logo.png"></a>
+		</div>
+		<div class="mobile-links">
+		<ul>
+			<li><a href="#">Play</a></li>
+			<li><a href="#">Buy</a></li>
+		</ul>
+		</div>
+	</div>
+	
+	<div class="question">?</div>
+							
+						
+							<div class="certo-category">
+								<p>Certo</p>
+							</div>
+								<div class="prompt-cards">
+									<div class="certoaction">
+										<p> </p>
+									</div>
+									<div class="othericons">
+									    <img src="#" />
+									</div>
+								</div>
+								<div class="certo-option">
+									<div class="goto-certo"><a href="#">Certo Action Card</a></div>
+									<!-- <div class="down-arrow"><a href="#"><img src="img/arrow-white.png"></a></div> -->
+								</div>
+
+
+</div>
 
 <div id="st-container" class="st-container">
 
@@ -40,21 +75,28 @@
 								<button data-effect="st-effect-1"><img src="img/menu-button.png"></button>
 							</div>
 							
-							<div class="title-logo"><img src="img/title-logo.png"></div>
+							<div class="title-logo"><img src="img/title-logo-black.png"></div>		
 							<div class="question">?</div>
-		
 							
 							<!-- <div class="container-1"> -->
-							<div class="certo">Certo</div>
+	<div class="temp-container">
+							<div class="certo-category">
+								<p>Certo</p>
+							</div>
 								<div class="prompt-cards">
-									<div class="action">For the next two rounds, spell out each player’s name and cheer them on during each of their turns.</div>
-								<div class="action-icons"><img src="img/icons3.png"></div>
+									<div class="certoaction">
+										<p> </p>
+									</div>
+									<div class="othericons">
+									    <img src="#" />
+									</div>
 								</div>
 								<div class="certo-option">
-									<div class="goto-prompt"><a href="#">Prompt Cards</a></div>
-									<div class="down-arrow"><a href="#"><img src="img/arrow.png"></a></div>
+									<div class="goto-certo"><a href="#">Certo Action Card</a></div>
+									<!-- <div class="down-arrow"><a href="#"><img src="img/arrow-white.png"></a></div> -->
 								</div>
-								
+    </div>
+   
 							<!-- </div> -->
 
 				<!-- Through This !!! -->
@@ -68,9 +110,43 @@
 </div><!-- /st-container -->
 		<script src="js/classie.js"></script>
 		<script src="js/sidebarEffects.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 		<script src="js/jquery.dlmenu.js"></script>
 		<script src="js/pagetransitions.js"></script>
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+		<!-- <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
+		
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <script>
+
+      $.getJSON('koru.json', function(data) {
+
+        /** you have to tell it which array to look into **/
+        var cardArray = data.promptcards;
+
+        /** then you can tell it to find a random object in that array **/
+        var randomCard = cardArray[Math.floor(Math.random()*cardArray.length)];
+        console.log(randomCard);
+
+        /** then you can tell it to do things with the line items within the object **/
+        $(".category p").text(randomCard.category);
+        $(".prompt p").text(randomCard.card);
+        $(".icons img").attr("src", randomCard.icons);
+        $(".certoaction p").text(randomCard.certoaction);
+        $(".othericons img").attr("src", randomCard.othericons);
+      });
+      
+      $(".prompt p").click(function() {
+		  document.location.reload(true);
+		  });
+		  
+	  $(".certoaction p").click(function() {
+		  document.location.reload(true);
+		  });
+
+    </script>
+    <!-- <script src="koru.js"></script> -->
 		
 </body>
 
