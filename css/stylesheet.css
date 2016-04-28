@@ -363,6 +363,7 @@ iframe {
 
 .mobile-container .prompt {
 	padding: 0 0 40px 0;
+	width: 90%;
 	color: white;
 }
 
