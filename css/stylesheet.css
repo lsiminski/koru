@@ -12,6 +12,7 @@ body {
 
 a {
 	text-decoration: none;
+	cursor: hand;
 }
 
 .st-container {
@@ -316,19 +317,17 @@ iframe {
 
 .mobile-container .prompt-cards {
 	font-family: 'Roboto';
-	line-height: 46px;
+	line-height: 56px;
 	font-weight: 300;
-	font-size: 32px;
+	font-size: 40px;
 	text-align: center;
-	position: relative;
-	top: 130px;
-	left: 0;
-	-webkit-transform: translate(0,0); 
-	-moz-transform: translate(0,0); 
-	transform: translate(0,0); 
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%); 
 	padding-bottom: 40px;
-	width: 80%;
-	margin: 0 auto;
 }
 
 /*
@@ -385,11 +384,11 @@ iframe {
 }
 
 .mobile-container .certo-option {
-	position: relative;
-	/* bottom: 8%; */
+	position: fixed;
+	bottom: 8%;
 	width: 100%;
 	margin: 0 auto;
-	padding: 110px 0 0 0;
+	padding: 30px 0 0 0;
 	text-align: center;
 }
 
