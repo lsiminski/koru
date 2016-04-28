@@ -335,6 +335,7 @@ iframe {
 	line-height: 40px;
 	font-weight: 300;
 	font-size: 30px;
+	width: 90%;
 	text-align: center;
 	position: fixed;
 	top: 50%;
@@ -363,7 +364,6 @@ iframe {
 
 .mobile-container .prompt {
 	padding: 0 0 40px 0;
-	width: 90%;
 	color: white;
 }
 
