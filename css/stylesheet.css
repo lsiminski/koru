@@ -269,7 +269,7 @@ iframe {
 }
 
 
-.category {
+.st-container .category {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	text-transform: uppercase;
@@ -278,6 +278,21 @@ iframe {
 	text-align: center;
 	position: fixed;
 	top: 8%;
+	left: 30%;
+	width: 40%;
+	padding: 12px 0 0 0;
+	z-index: 999;
+}
+
+.mobile-container .category {
+	font-family: 'Montserrat';
+	font-size: 14px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #1F1F1F;
+	text-align: center;
+	position: fixed;
+	top: 4%;
 	left: 30%;
 	width: 40%;
 	padding: 12px 0 0 0;
@@ -385,7 +400,7 @@ iframe {
 
 .mobile-container .certo-option {
 	position: fixed;
-	bottom: 8%;
+	bottom: 4%;
 	width: 100%;
 	margin: 0 auto;
 	padding: 30px 0 0 0;
