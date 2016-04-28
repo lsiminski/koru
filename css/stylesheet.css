@@ -288,14 +288,14 @@ iframe {
 	font-family: 'Montserrat';
 	font-size: 12px;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: 1.3px;
 	color: #1F1F1F;
 	text-align: center;
 	position: fixed;
 	top: 10%;
 	left: 30%;
 	width: 40%;
-	padding: 0 0 0 0;
+	padding: 2px 0 0 0;
 	z-index: 999;
 }
 
