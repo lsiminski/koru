@@ -197,6 +197,19 @@ a:hover {
 	color: white;
 }
 
+.goto-prompts {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: #005AAA;
+	padding: 50px 0 12px 0;
+}
+
+.goto-prompts a {
+	color: #005AAA;
+}
+
 .goto-prompt {
 	font-family: 'Montserrat';
 	font-size: 10px;

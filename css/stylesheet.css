@@ -493,6 +493,36 @@ iframe {
 	color: white;
 }
 
+.mobile-container .goto-certo a {
+	color: white;
+}
+
+.st-container .goto-prompts {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: #005AAA;
+	padding: 50px 0 12px 0;
+}
+
+.st-container .goto-prompts a {
+	color: #005AAA;
+}
+
+.mobile-container .goto-prompts {
+	font-family: 'Montserrat';
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: #005AAA;
+	padding: 50px 0 12px 0;
+}
+
+.mobile-container .goto-prompts a {
+	color: #005AAA;
+}
+
 .goto-prompt {
 	font-family: 'Montserrat';
 	font-size: 10px;
