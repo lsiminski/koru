@@ -106,6 +106,7 @@ button:focus {
 
 button:hover {
 	background: #1f1f1f;
+	cursor: hand;
 }
 
 /*
