@@ -18,6 +18,7 @@
 
 <body class="random">
 
+<!--
 <div class="mobile-container">
 	<div class="mobile-header">
 		<div class="mobile-logo">
@@ -33,7 +34,7 @@
 	
 	<div class="black-question">?</div>
 							
-							<!-- <div class="container-1"> -->
+						
 							<div class="category">Anima</div>
 								<div id="prompt-cards">
 									<div class="prompt">Do you squeeze the end or middle of the toothpaste tube to get it out?</div>
@@ -46,6 +47,7 @@
 
 
 </div>
+-->
 
 <div id="st-container" class="st-container">
 
@@ -75,10 +77,16 @@
 							<!-- <div class="container-1"> -->
 							
     <div class="temp-container">
-							<div class="category">Anima</div>
+							<div class="category">
+								<p> </p>
+							</div>
 								<div class="prompt-cards">
-									<div id="prompt"><p>Do you squeeze the end or middle of the toothpaste tube to get it out?</p></div>
-									<div class="prompt-icons"><img src="img/icons1.png"></div>
+									<div class="prompt">
+										<p> </p>
+									</div>
+									<div class="icons">
+									    <img src="#" />
+									</div>
 								</div>
 								<div class="certo-option">
 									<div class="goto-certo"><a href="#">Certo Action Card</a></div>
@@ -100,9 +108,34 @@
 		<script src="js/sidebarEffects.js"></script>
 		<script src="js/jquery.dlmenu.js"></script>
 		<script src="js/pagetransitions.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-    <script src="koru.js"></script>
+		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
+		<!-- <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script> -->
+		
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <script>
+
+      $.getJSON('koru.json', function(data) {
+
+        /** you have to tell it which array to look into **/
+        var cardArray = data.promptcards;
+
+        /** then you can tell it to find a random object in that array **/
+        var randomCard = cardArray[Math.floor(Math.random()*cardArray.length)];
+        console.log(randomCard);
+
+        /** then you can tell it to do things with the line items within the object **/
+        $("body").css("background-color", randomCard.background);
+        $(".category p").text(randomCard.category);
+        $(".prompt p").text(randomCard.card);
+        $(".icons img").attr("src", randomCard.icons);
+        $(".certoaction p").text(randomCard.certoaction);
+        $(".othericons img").attr("src", randomCard.othericons);
+      });
+
+    </script>
+    <!-- <script src="koru.js"></script> -->
 		
 </body>
 
