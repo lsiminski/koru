@@ -21,7 +21,7 @@ a:hover {
 }
 
 .title-logo {
-	position: absolute;
+	position: fixed;
 	height: 46px;
 	top: 8%;
 	left: 80px;
@@ -36,31 +36,11 @@ a:hover {
 }
 */
 
-.containers {
-	width: 100%;
-	height: 100%;
-	overflow: hidden;
-	position: absolute
-}
-
-.temp-container {
-	width: 100%;
-	height: auto;
-	position: relative;
-}
-
-.under-container {
-	background: white;
-	width: 100%;
-	height: 100;
-	position: relative;
-}
-
 .question {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	font-weight: 700;
-	position: absolute;
+	position: fixed;
 	top: 8%;
 	right: 55px;
 	padding: 12px 0 0 0;
@@ -72,7 +52,7 @@ a:hover {
 	font-family: 'Montserrat';
 	font-size: 16px;
 	font-weight: 700;
-	position: absolute;
+	position: fixed;
 	top: 8%;
 	right: 55px;
 	padding: 12px 0 0 0;
@@ -87,7 +67,7 @@ a:hover {
 	letter-spacing: 1px;
 	color: #1F1F1F;
 	text-align: center;
-	position: absolute;
+	position: fixed;
 	top: 8%;
 	left: 30%;
 	width: 40%;
@@ -102,7 +82,7 @@ a:hover {
 	letter-spacing: 1px;
 	color: #005AAA;
 	text-align: center;
-	position: absolute;
+	position: fixed;
 	top: 8%;
 	left: 30%;
 	width: 40%;
@@ -117,16 +97,13 @@ a:hover {
 	font-weight: 300;
 	font-size: 40px;
 	text-align: center;
-	position: absolute;
-	margin: 0 auto;
-	/*
-top: 50%;
+	position: fixed;
+	top: 50%;
 	left: 50%;
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
 	padding-bottom: 40px;
-*/
 }
 
 /*
@@ -153,7 +130,7 @@ top: 50%;
 .struggles {
 	width: 30%;
 	text-align: center;
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	left: 50%;
 	-webkit-transform: translate(-50%,-50%); 
@@ -169,7 +146,7 @@ top: 50%;
 }
 
 .certo-option {
-	position: absolute;
+	position: fixed;
 	bottom: 8%;
 	width: 100%;
 	margin: 0 auto;
