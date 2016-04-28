@@ -261,7 +261,7 @@ iframe {
 	font-size: 16px;
 	font-weight: 700;
 	position: fixed;
-	top: 12%;
+	top: 10%;
 	right: 39px;
 	padding: 12px 0 0 0;
 	z-index: 999;
@@ -292,7 +292,7 @@ iframe {
 	color: #1F1F1F;
 	text-align: center;
 	position: fixed;
-	top: 12%;
+	top: 10%;
 	left: 30%;
 	width: 40%;
 	padding: 0 0 0 0;
@@ -411,6 +411,15 @@ iframe {
 .st-container .goto-certo {
 	font-family: 'Montserrat';
 	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: white;
+	padding: 50px 0 12px 0;
+}
+
+.mobile-container .goto-certo {
+	font-family: 'Montserrat';
+	font-size: 12px;
 	text-transform: uppercase;
 	letter-spacing: 1.3px;
 	color: white;
