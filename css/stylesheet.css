@@ -335,7 +335,7 @@ iframe {
 	line-height: 40px;
 	font-weight: 300;
 	font-size: 30px;
-	width: 85%;
+	width: 80%;
 	text-align: center;
 	position: fixed;
 	top: 50%;
@@ -343,7 +343,7 @@ iframe {
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
-	/* padding-bottom: 40px; */
+	padding-top: 10px;
 }
 
 /*
