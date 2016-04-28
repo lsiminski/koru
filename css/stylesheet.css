@@ -261,7 +261,7 @@ iframe {
 	font-size: 16px;
 	font-weight: 700;
 	position: fixed;
-	top: 8%;
+	top: 12%;
 	right: 39px;
 	padding: 12px 0 0 0;
 	z-index: 999;
@@ -292,7 +292,7 @@ iframe {
 	color: #1F1F1F;
 	text-align: center;
 	position: fixed;
-	top: 8%;
+	top: 12%;
 	left: 30%;
 	width: 40%;
 	padding: 0 0 0 0;
@@ -335,7 +335,7 @@ iframe {
 	line-height: 40px;
 	font-weight: 300;
 	font-size: 30px;
-	width: 90%;
+	width: 85%;
 	text-align: center;
 	position: fixed;
 	top: 50%;
