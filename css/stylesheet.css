@@ -343,7 +343,7 @@ iframe {
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
-	padding-bottom: 40px;
+	/* padding-bottom: 40px; */
 }
 
 /*
