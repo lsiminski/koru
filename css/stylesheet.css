@@ -367,6 +367,16 @@ iframe {
 	color: white;
 }
 
+.st-container .icons img {
+	height: 30px;
+	width: auto;
+}
+
+.mobile-container .icons img {
+	height: 20px;
+	width: auto;
+}
+
 .action {
 	padding: 0 0 75px 0;
 	color: #1f1f1f; 
