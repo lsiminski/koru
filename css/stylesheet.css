@@ -317,9 +317,9 @@ iframe {
 
 .mobile-container .prompt-cards {
 	font-family: 'Roboto';
-	line-height: 56px;
+	line-height: 40px;
 	font-weight: 300;
-	font-size: 40px;
+	font-size: 30px;
 	text-align: center;
 	position: fixed;
 	top: 50%;
