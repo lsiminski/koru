@@ -8,6 +8,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	cursor: hand;
+}
+
 .st-container {
 	visibility: visible;
 }
