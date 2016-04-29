@@ -282,6 +282,29 @@ a:hover {
 	/* padding-left: 2%; */
 }
 
+.social-links {
+	position: fixed;
+	bottom: 32px;
+	width: 22px;;
+	margin: 0 auto;
+	/* background: pink; */
+	text-align: center;
+	padding: 0;
+	right: 60px;
+	z-index: 1;
+	/*
+-webkit-transform: translate(-50%,0); 
+	-moz-transform: translate(-50%,0); 
+	transform: translate(-50%,0);
+*/
+}
+
+.social-links img {
+	height: 20px;
+	width: auto;
+	margin: 10px 0 0 0;
+}
+
 /*
 .about-links ul {
 	display: inline;
