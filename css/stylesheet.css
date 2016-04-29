@@ -253,7 +253,7 @@ iframe {
 .mobile-container .question {
 	font-family: 'Montserrat';
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 400;
 	position: fixed;
 	top: 10%;
 	right: 39px;
@@ -277,7 +277,7 @@ iframe {
 .mobile-container .black-question {
 	font-family: 'Montserrat';
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 400;
 	position: fixed;
 	top: 10%;
 	right: 39px;
