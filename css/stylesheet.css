@@ -28,7 +28,7 @@ a:hover {
 	width: 100%;
 	height: 100%;
 	z-index: 9999;
-	background: url("257.gif") center center no-repeat white;
+	background: transparent;
 }
 
 .st-container {
