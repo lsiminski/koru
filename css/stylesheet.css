@@ -286,6 +286,13 @@ iframe {
 	color: #1F1F1F;
 }
 
+.question a {
+	color: #005AAA;
+}
+
+.black-question a {
+	color: #1F1F1F;
+}
 
 .st-container .category {
 	font-family: 'Montserrat';
