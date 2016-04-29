@@ -6,40 +6,580 @@
             "card": "Do you squeeze the end or middle of the toothpaste tube to get it out?",
             "category": "Anima",
             "icons": "img/icons1.png",
-            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
-            "othericons": "img/icons3.png"
+            "certoaction": "Give the player to your left a piggy back ride around the room.",
+            "othericons": "img/icons4.png"
         },
         {
             "number": "2",
             "background": "#FFCD2F",
+            "card": "Do you fold your clothes right out of the dryer?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Give the player to your left a piggy back ride around the room.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "3",
+            "background": "#FFCD2F",
+            "card": "Do you split your Oreos in half before eating them?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Give the player to your left a piggy back ride around the room.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "4",
+            "background": "#FFCD2F",
             "card": "Where is the furthest place you’ve traveled?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Give the player to your left a piggy back ride around the room.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "5",
+            "background": "#FFCD2F",
+            "card": "How many siblings do you have?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Have the player to your left time you for one minute. Play tic tac toe by yourself and have everyone in the room watch you until time is up.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "6",
+            "background": "#FFCD2F",
+            "card": "How many kids do or did you want?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Have the player to your left time you for one minute. Play tic tac toe by yourself and have everyone in the room watch you until time is up.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "7",
+            "background": "#FFCD2F",
+            "card": "Who is your biggest role model?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Have the player to your left time you for one minute. Play tic tac toe by yourself and have everyone in the room watch you until time is up.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "8",
+            "background": "#FFCD2F",
+            "card": "Do you typically overpack or underpack for a trip?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Have the player to your left time you for one minute. Play tic tac toe by yourself and have everyone in the room watch you until time is up.",
+            "othericons": "img/icons4.png"
+        },
+        {
+            "number": "9",
+            "background": "#FFCD2F",
+            "card": "Exactly how many photos do you have stored on your phone right now?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Determine who has the next birthday. Have everyone else sing happy birthday to this person as if you forgot their name.",
+            "othericons": "img/icons5.png"
+        },
+        {
+            "number": "10",
+            "background": "#FFCD2F",
+            "card": "Do you get uncomfortable when people talk about religion or politics?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Determine who has the next birthday. Have everyone else sing happy birthday to this person as if you forgot their name.",
+            "othericons": "img/icons5.png"
+        },
+        {
+            "number": "11",
+            "background": "#FFCD2F",
+            "card": "What’s your biggest pet peeve?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Determine who has the next birthday. Have everyone else sing happy birthday to this person as if you forgot their name.",
+            "othericons": "img/icons5.png"
+        },
+        {
+            "number": "12",
+            "background": "#FFCD2F",
+            "card": "Do you plan ahead or wait until the last minute to get things done?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Determine who has the next birthday. Have everyone else sing happy birthday to this person as if you forgot their name.",
+            "othericons": "img/icons5.png"
+        },
+        {
+            "number": "13",
+            "background": "#FFCD2F",
+            "card": "What’s the worst thing you’ve ever eaten?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Determine who has the next birthday. Have everyone else sing happy birthday to this person as if you forgot their name.",
+            "othericons": "img/icons5.png"
+        },
+        {
+            "number": "14",
+            "background": "#FFCD2F",
+            "card": "If you could treat yourself right now, what would you do?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Make everyone switch seats before continuing the game.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "15",
+            "background": "#FFCD2F",
+            "card": "What’s something that you should throw away but can’t?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Make everyone switch seats before continuing the game.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "16",
+            "background": "#FFCD2F",
+            "card": "Do you have any unusual morning or night rituals?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Make everyone switch seats before continuing the game.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "17",
+            "background": "#FFCD2F",
+            "card": "What’s something you’re naturally good at?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Make everyone switch seats before continuing the game.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "18",
+            "background": "#FFCD2F",
+            "card": "How do you usually deal with stress?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Make everyone switch seats before continuing the game.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "19",
+            "background": "#FFCD2F",
+            "card": "What’s one thing you’ve procrastinated on doing today?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Hum “Twinkle Twinkle Little Star” or the ABC’s and have the group guess which one you chose.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "20",
+            "background": "#FFCD2F",
+            "card": "Are you more likely to panic or assess the situation in times of trouble?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Hum “Twinkle Twinkle Little Star” or the ABC’s and have the group guess which one you chose.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "21",
+            "background": "#FFCD2F",
+            "card": "If you could change one thing about yourself, what would it be?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Hum “Twinkle Twinkle Little Star” or the ABC’s and have the group guess which one you chose.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "22",
+            "background": "#FFCD2F",
+            "card": "What are you the most grateful for in life?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Hum “Twinkle Twinkle Little Star” or the ABC’s and have the group guess which one you chose.",
+            "othericons": "img/icons6.png"
+        },
+        {
+            "number": "23",
+            "background": "#FFCD2F",
+            "card": "What’s one thing you’ve always dreamt of doing?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a portrait of the player to your left on a sticky note. Ask them to wear it on their shirt for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "24",
+            "background": "#FFCD2F",
+            "card": "Where would you live if you could live anywhere in the world?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a portrait of the player to your left on a sticky note. Ask them to wear it on their shirt for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "25",
+            "background": "#FFCD2F",
+            "card": "If you could have any superpower, what would it be?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a portrait of the player to your left on a sticky note. Ask them to wear it on their shirt for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "26",
+            "background": "#FFCD2F",
+            "card": "What is your best childhood memory?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a portrait of the player to your left on a sticky note. Ask them to wear it on their shirt for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "27",
+            "background": "#FFCD2F",
+            "card": "What’s the best thing that could happen to you at this stage in your life?",
             "category": "Anima",
             "icons": "img/icons1.png",
             "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
             "othericons": "img/icons3.png"
         },
         {
-            "number": "3",
-            "background": "#2FB4D2",
-            "card": "Do you consider yourself a thinker or a feeler?",
-            "category": "Sensum",
+            "number": "28",
+            "background": "#FFCD2F",
+            "card": "What sound drives you crazy?",
+            "category": "Anima",
             "icons": "img/icons1.png",
             "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "29",
+            "background": "#FFCD2F",
+            "card": "What’s the most serious illness or injury you’ve ever faced?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "30",
+            "background": "#FFCD2F",
+            "card": "Have you ever suffered from a mental illness or disorder?",
+            "category": "Anima",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "1",
+            "background": "#2FB4D2",
+            "card": "What scares you most about the future?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "2",
+            "background": "#2FB4D2",
+            "card": "What’s the most embarrassing thing that’s ever happened to you?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "3",
+            "background": "#2FB4D2",
+            "card": "How likely are you to tell someone how you truly feel?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
             "othericons": "img/icons3.png"
         },
         {
             "number": "4",
             "background": "#2FB4D2",
+            "card": "Have you ever wanted to change your name?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "5",
+            "background": "#2FB4D2",
+            "card": "What do you do when you’re feeling hopeless?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Write your middle name on a sticky note with a permanent marker and stick it to your forehead for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "6",
+            "background": "#2FB4D2",
+            "card": "What’s one of the worst feelings you’ve ever experienced?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a smiley face on a sticky note with a permanent marker and stick it over your biggest physical insecurity for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "7",
+            "background": "#2FB4D2",
+            "card": "What do you usually do to make yourself feel better?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a smiley face on a sticky note with a permanent marker and stick it over your biggest physical insecurity for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "8",
+            "background": "#2FB4D2",
+            "card": "What makes you feel proud?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a smiley face on a sticky note with a permanent marker and stick it over your biggest physical insecurity for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "9",
+            "background": "#2FB4D2",
+            "card": "What’s one thing that makes you feel anxious?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Draw a smiley face on a sticky note with a permanent marker and stick it over your biggest physical insecurity for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "10",
+            "background": "#2FB4D2",
+            "card": "At what time of the day do you feel your happiest?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "11",
+            "background": "#2FB4D2",
+            "card": "When do you feel the most at peace?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "12",
+            "background": "#2FB4D2",
+            "card": "What about today has been better than yesterday?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "13",
+            "background": "#2FB4D2",
+            "card": "Does your mood change with the seasons?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Quick! Do 2 laps around the room and sit back down like you’re being chased in Duck Duck Goose.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "14",
+            "background": "#2FB4D2",
+            "card": "Do you consider yourself a thinker or a feeler?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand on one leg until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "15",
+            "background": "#2FB4D2",
+            "card": "Is it more important to you to look good or feel good?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand on one leg until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "16",
+            "background": "#2FB4D2",
+            "card": "What makes you the most uncomfortable?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand on one leg until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "17",
+            "background": "#2FB4D2",
+            "card": "When do you feel the most insecure?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand on one leg until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "18",
+            "background": "#2FB4D2",
+            "card": "What’s one thing that makes you really angry?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand on one leg until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "19",
+            "background": "#2FB4D2",
+            "card": "When do you feel the loneliest?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Drop and give me 20! Do (or at least attempt to do) 20 push ups.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "20",
+            "background": "#2FB4D2",
             "card": "Do you ever feel out of control?",
             "category": "Sensum",
             "icons": "img/icons1.png",
-            "certoaction": "Write your least favorite word on the back of your hand with a permanent marker.",
+            "certoaction": "Drop and give me 20! Do (or at least attempt to do) 20 push ups.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "21",
+            "background": "#2FB4D2",
+            "card": "Who do you turn to when you’re upset?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Drop and give me 20! Do (or at least attempt to do) 20 push ups.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "22",
+            "background": "#2FB4D2",
+            "card": "Are you happy?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Drop and give me 20! Do (or at least attempt to do) 20 push ups.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "23",
+            "background": "#2FB4D2",
+            "card": "When have you felt the most judgement from another person or group of people?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "For the next two rounds, spell out each player’s name and cheer them on during each of their turns.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "24",
+            "background": "#2FB4D2",
+            "card": "Do you get uncomfortable when someone shares their personal information with you?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "For the next two rounds, spell out each player’s name and cheer them on during each of their turns.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "25",
+            "background": "#2FB4D2",
+            "card": "What is your immediate reaction when feeling overwhelmed?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "For the next two rounds, spell out each player’s name and cheer them on during each of their turns.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "26",
+            "background": "#2FB4D2",
+            "card": "When in your life have you felt the most accomplished?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "For the next two rounds, spell out each player’s name and cheer them on during each of their turns.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "27",
+            "background": "#2FB4D2",
+            "card": "Have you ever been so upset that you almost made a rash decision?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Spin around while saying the pledge of allegiance.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "28",
+            "background": "#2FB4D2",
+            "card": "What was the last lie you told?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Spin around while saying the pledge of allegiance.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "29",
+            "background": "#2FB4D2",
+            "card": "Where is your happy place?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Spin around while saying the pledge of allegiance.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "30",
+            "background": "#2FB4D2",
+            "card": "What’s one thing that upset you this week?",
+            "category": "Sensum",
+            "icons": "img/icons1.png",
+            "certoaction": "Spin around while saying the pledge of allegiance.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "1",
+            "background": "#645FA9",
+            "card": "How would you define empathy?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Read the last text message you sent out loud in your best accent.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "2",
+            "background": "#645FA9",
+            "card": "Have you ever associated empathy with weakness?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Read the last text message you sent out loud in your best accent.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "3",
+            "background": "#645FA9",
+            "card": "Who is the most empathetic person you know?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Read the last text message you sent out loud in your best accent.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "4",
+            "background": "#645FA9",
+            "card": "How often do you find yourself dealing with other people’s problems?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Read the last text message you sent out loud in your best accent.",
             "othericons": "img/icons3.png"
         },
         {
             "number": "5",
             "background": "#645FA9",
-            "card": "Do you prefer to have a listening ear or sound advice?",
+            "card": "What’s one thing that holds you back from speaking about your problems?",
             "category": "Empathia",
             "icons": "img/icons1.png",
             "certoaction": "Wear your shirt either inside out or backwards for the rest of the game.",
@@ -48,6 +588,60 @@
         {
             "number": "6",
             "background": "#645FA9",
+            "card": "How would you differentiate empathy and sympathy?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Wear your shirt either inside out or backwards for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "7",
+            "background": "#645FA9",
+            "card": "What’s a problem you’re currently dealing with?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Wear your shirt either inside out or backwards for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "8",
+            "background": "#645FA9",
+            "card": "Do you find it difficult relating to someone with a problem you’ve never experienced?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Wear your shirt either inside out or backwards for the rest of the game.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "9",
+            "background": "#645FA9",
+            "card": "How easily are you able to see something from someone else’s perspective?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Lay on the floor and make snow angels until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "10",
+            "background": "#645FA9",
+            "card": "Do you generally put your feelings before others’ or vice versa?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Lay on the floor and make snow angels until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "11",
+            "background": "#645FA9",
+            "card": "How can you typically tell when someone needs help?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Lay on the floor and make snow angels until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "12",
+            "background": "#645FA9",
             "card": "What’s one thing people misconceive about you?",
             "category": "Empathia",
             "icons": "img/icons1.png",
@@ -55,39 +649,660 @@
             "othericons": "img/icons3.png"
         },
         {
-            "number": "7",
-            "background": "#F89D3E",
-            "card": "Do you think the player to your left eats more or starves under stress?",
-            "category": "Nexus",
+            "number": "13",
+            "background": "#645FA9",
+            "card": "Do you consider yourself an empathetic person?",
+            "category": "Empathia",
             "icons": "img/icons1.png",
             "certoaction": "Stand in the corner of the room facing the wall until your next turn.",
             "othericons": "img/icons3.png"
         },
         {
-            "number": "8",
+            "number": "14",
+            "background": "#645FA9",
+            "card": "Are you someone that actively seeks comfort and/or assurance?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand in the corner of the room facing the wall until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "15",
+            "background": "#645FA9",
+            "card": "Do you prefer to have a listening ear or sound advice?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand in the corner of the room facing the wall until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "16",
+            "background": "#645FA9",
+            "card": "Do you think you could still empathize with someone you weren’t fond of?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Stand in the corner of the room facing the wall until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "17",
+            "background": "#645FA9",
+            "card": "What’s the worst thing someone could say to you when you’re pissed off?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Use your feet to draw your next card.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "18",
+            "background": "#645FA9",
+            "card": "When you’re in a funk, does your mood tend to affect those around you?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Use your feet to draw your next card.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "19",
+            "background": "#645FA9",
+            "card": "Have you ever comforted someone experiencing depression?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Use your feet to draw your next card.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "20",
+            "background": "#645FA9",
+            "card": "What would you say to someone who was struggling with an eating disorder?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Use your feet to draw your next card.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "21",
+            "background": "#645FA9",
+            "card": "How would you react to someone who told you that they have attempted suicide?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Turn around, facing away from the group and do 20 jumping jacks.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "22",
+            "background": "#645FA9",
+            "card": "What do you think is the best way to comfort someone who has just lost a loved one?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Turn around, facing away from the group and do 20 jumping jacks.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "23",
+            "background": "#645FA9",
+            "card": "What would you say to someone who doesn’t want to go to a party with you because they suffer from social anxiety?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Turn around, facing away from the group and do 20 jumping jacks.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "24",
+            "background": "#645FA9",
+            "card": "Do you have any family members or friends that suffer from a mental illness or disorder?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Turn around, facing away from the group and do 20 jumping jacks.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "25",
+            "background": "#645FA9",
+            "card": "How comfortable are you interacting with people who suffer from mental illness or disorders?",
+            "category": "Empathia",
+            "icons": "img/icons1.png",
+            "certoaction": "Sing a few verses of your favorite song in your best opera voice.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "1",
             "background": "#F89D3E",
-            "card": "Everyone answer! How many hours of sleep do you get on average?",
+            "card": "Find one thing you have in common with every player.",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Sing a few verses of your favorite song in your best opera voice.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "2",
+            "background": "#F89D3E",
+            "card": "Do you think the player to your left eats more or starves under stress?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Sing a few verses of your favorite song in your best opera voice.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "3",
+            "background": "#F89D3E",
+            "card": "Do you think the player to your left eats creamy or crunchy peanut butter?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Sing a few verses of your favorite song in your best opera voice.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "4",
+            "background": "#F89D3E",
+            "card": "Do you think the player to your left prefers coffee or tea?",
             "category": "Nexus",
             "icons": "img/icons1.png",
             "certoaction": "Say the ABC’s backwards.",
             "othericons": "img/icons3.png"
         },
         {
+            "number": "5",
+            "background": "#F89D3E",
+            "card": "When do you think was the last time the player to your left cried?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Say the ABC’s backwards.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "6",
+            "background": "#F89D3E",
+            "card": "How often do you think the person to your left gets sick?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Say the ABC’s backwards.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "7",
+            "background": "#F89D3E",
+            "card": "How many unread emails do you think the person to your left has sitting in their inbox?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Say the ABC’s backwards.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "8",
+            "background": "#F89D3E",
+            "card": "Guess which player would survive the longest out in the wild.",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Whisper something romantic to no one in particular.",
+            "othericons": "img/icons3.png"
+        },
+        {
             "number": "9",
-            "background": "#005AAA",
-            "card": "You’ve cried in public.",
-            "category": "Certo",
-            "icons": "img/icons2.png",
+            "background": "#F89D3E",
+            "card": "Ask everyone: Have you ever broken a bone?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
             "certoaction": "Whisper something romantic to no one in particular.",
             "othericons": "img/icons3.png"
         },
         {
             "number": "10",
+            "background": "#F89D3E",
+            "card": "Ask everyone: Have you ever had surgery?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Whisper something romantic to no one in particular.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "11",
+            "background": "#F89D3E",
+            "card": "Ask everyone: Are you afraid of dying?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Whisper something romantic to no one in particular.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "12",
+            "background": "#F89D3E",
+            "card": "Ask everyone: Do you like to have the TV on before falling asleep?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Whisper something romantic to no one in particular.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "13",
+            "background": "#F89D3E",
+            "card": "Ask everyone: Do you try clothes on in the store before purchasing them?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write down a compliment for each player on a sticky note, crumple it into a ball and pass it to them.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "14",
+            "background": "#F89D3E",
+            "card": "Everyone answer! If you could be invisible for a day, what would you do?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write down a compliment for each player on a sticky note, crumple it into a ball and pass it to them.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "15",
+            "background": "#F89D3E",
+            "card": "Everyone answer! What’s the last show you binge watched?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write down a compliment for each player on a sticky note, crumple it into a ball and pass it to them.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "16",
+            "background": "#F89D3E",
+            "card": "Everyone answer! How many hours of sleep do you get on average?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write down a compliment for each player on a sticky note, crumple it into a ball and pass it to them.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "17",
+            "background": "#F89D3E",
+            "card": "Everyone answer! What unique inscription would you want to have on your gravestone?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Pick any song, look up the lyrics and read them to the group with a straight face.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "18",
+            "background": "#F89D3E",
+            "card": "Everyone answer! If you only had 24 hours to live, what would you do?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Pick any song, look up the lyrics and read them to the group with a straight face.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "19",
+            "background": "#F89D3E",
+            "card": "Everyone answer! If you could time travel to the past or future, what year would you visit?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Pick any song, look up the lyrics and read them to the group with a straight face.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "20",
+            "background": "#F89D3E",
+            "card": "Group question: Out of all the feelings in the world, is there one you’d want to eliminate?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Pick any song, look up the lyrics and read them to the group with a straight face.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "21",
+            "background": "#F89D3E",
+            "card": "Group question: If you could only have 3 apps on your phone, what would they be?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write a haiku (3 lines: 5 syllables, 7 syllables, 5 syllables) about a phase you regret and read it aloud to the group.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "22",
+            "background": "#F89D3E",
+            "card": "Group question: Do you fold your pizza, eat it flat, or cut it?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write a haiku (3 lines: 5 syllables, 7 syllables, 5 syllables) about a phase you regret and read it aloud to the group.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "23",
+            "background": "#F89D3E",
+            "card": "Group question: What’s your biggest guilty pleasure?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write a haiku (3 lines: 5 syllables, 7 syllables, 5 syllables) about a phase you regret and read it aloud to the group.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "24",
+            "background": "#F89D3E",
+            "card": "Group question: How many alarms do you set in order to wake up in the morning?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Write a haiku (3 lines: 5 syllables, 7 syllables, 5 syllables) about a phase you regret and read it aloud to the group.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "25",
+            "background": "#F89D3E",
+            "card": "Group question: How do you feel about people who romanticize mental illnesses and disorders?",
+            "category": "Nexus",
+            "icons": "img/icons1.png",
+            "certoaction": "Take a picture of the group and text it to a family member.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "1",
+            "background": "#005AAA",
+            "card": "Someone has told you: “get over it.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Take a picture of the group and text it to a family member.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "2",
+            "background": "#005AAA",
+            "card": "Someone has told you: “when you look back at this, you’ll laugh.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Take a picture of the group and text it to a family member.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "3",
+            "background": "#005AAA",
+            "card": "Someone has told you: “you’re overreacting.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Take a picture of the group and text it to a family member.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "4",
+            "background": "#005AAA",
+            "card": "Someone has told you: “worrying won’t solve anything.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Use a permanent marker to draw a different emoticon on the back of each player’s hand.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "5",
+            "background": "#005AAA",
+            "card": "Someone has told you: “someone else has it a lot worse.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Use a permanent marker to draw a different emoticon on the back of each player’s hand.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "6",
+            "background": "#005AAA",
+            "card": "Someone has told you: “just don’t think about it.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Use a permanent marker to draw a different emoticon on the back of each player’s hand.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "7",
+            "background": "#005AAA",
+            "card": "Someone has told you: “don’t let it get to you.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Use a permanent marker to draw a different emoticon on the back of each player’s hand.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "8",
+            "background": "#005AAA",
+            "card": "You’ve had to put someone’s feelings before your own.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Do your best impersonation of anyone.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "9",
+            "background": "#005AAA",
+            "card": "You’ve been rejected by someone you crushed on.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Do your best impersonation of anyone.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "10",
+            "background": "#005AAA",
+            "card": "You’ve stolen something and got caught.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Do your best impersonation of anyone.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "11",
+            "background": "#005AAA",
+            "card": "You’ve been embarrassed in public.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Do your best impersonation of anyone.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "12",
+            "background": "#005AAA",
+            "card": "Someone has walked in on you while you were on the toilet.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick any word. Yell it loudly.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "13",
             "background": "#005AAA",
             "card": "Someone has told you to stop saying sorry and you’ve apologized.",
             "category": "Certo",
             "icons": "img/icons2.png",
             "certoaction": "Pick any word. Yell it loudly.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "14",
+            "background": "#005AAA",
+            "card": "You’ve hated your job.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick any word. Yell it loudly.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "15",
+            "background": "#005AAA",
+            "card": "You’ve pulled an all-nighter to get your work done.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick any word. Yell it loudly.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "16",
+            "background": "#005AAA",
+            "card": "You’ve regretted your hair.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Find a YouTube video of a song you find really annoying. Make the group watch the entire video.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "17",
+            "background": "#005AAA",
+            "card": "You’ve forgotten to put on deodorant before going out.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Find a YouTube video of a song you find really annoying. Make the group watch the entire video.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "18",
+            "background": "#005AAA",
+            "card": "You’ve forgotten to brush your teeth before going out.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Find a YouTube video of a song you find really annoying. Make the group watch the entire video.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "19",
+            "background": "#005AAA",
+            "card": "You’ve been caught sleep talking.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Find a YouTube video of a song you find really annoying. Make the group watch the entire video.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "20",
+            "background": "#005AAA",
+            "card": "You’ve been unprepared for an important deadline.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "You can’t say anything but “skip” for the entire next round.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "21",
+            "background": "#005AAA",
+            "card": "Someone has butchered your name pronunciation.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "You can’t say anything but “skip” for the entire next round.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "22",
+            "background": "#005AAA",
+            "card": "You’ve clogged a toilet and someone else found it.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "You can’t say anything but “skip” for the entire next round.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "23",
+            "background": "#005AAA",
+            "card": "You’ve dropped food immediately after buying it.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "You can’t say anything but “skip” for the entire next round.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "24",
+            "background": "#005AAA",
+            "card": "You’ve been hit in the head with the ball playing sports.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Call the most recent person in your phone history, tell them you love them, and if this leads to a conversation, have the group patiently wait for your call to end.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "25",
+            "background": "#005AAA",
+            "card": "You spend the majority of your money on food.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Call the most recent person in your phone history, tell them you love them, and if this leads to a conversation, have the group patiently wait for your call to end.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "26",
+            "background": "#005AAA",
+            "card": "You’ve cried in public.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Call the most recent person in your phone history, tell them you love them, and if this leads to a conversation, have the group patiently wait for your call to end.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "27",
+            "background": "#005AAA",
+            "card": "You’ve had to spray dirty clothes so you could wear them again.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Call the most recent person in your phone history, tell them you love them, and if this leads to a conversation, have the group patiently wait for your call to end.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "28",
+            "background": "#005AAA",
+            "card": "You’ve peed in the pool with other people in it.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Lay on the floor, face down until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "29",
+            "background": "#005AAA",
+            "card": "You’ve had to use the bathroom in traffic.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Lay on the floor, face down until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "30",
+            "background": "#005AAA",
+            "card": "You’ve been caught humming in public.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Lay on the floor, face down until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "31",
+            "background": "#005AAA",
+            "card": "You’ve had a horrible zit that you were unable to cover up.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Lay on the floor, face down until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "32",
+            "background": "#005AAA",
+            "card": "You’ve taken your shoes off and people have had to politely leave the room.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick a player and stare at their left eye until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "33",
+            "background": "#005AAA",
+            "card": "You’ve had an “accident.”",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick a player and stare at their left eye until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "34",
+            "background": "#005AAA",
+            "card": "You’ve forgotten what day it was and missed something important.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick a player and stare at their left eye until your next turn.",
+            "othericons": "img/icons3.png"
+        },
+        {
+            "number": "35",
+            "background": "#005AAA",
+            "card": "You’ve stained your new shirt the first time you wore it.",
+            "category": "Certo",
+            "icons": "img/icons2.png",
+            "certoaction": "Pick a player and stare at their left eye until your next turn.",
             "othericons": "img/icons3.png"
         }
     ]
