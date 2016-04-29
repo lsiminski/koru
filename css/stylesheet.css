@@ -389,7 +389,7 @@ iframe {
 	font-family: 'Roboto';
 	line-height: 34px;
 	font-weight: 300;
-	font-size: 26px;
+	font-size: 28px;
 	width: 80%;
 	text-align: center;
 	position: fixed;
@@ -418,7 +418,7 @@ iframe {
 }
 
 .mobile-container .prompt {
-	padding: 0 0 30px 0;
+	padding: 0 0 20px 0;
 	color: white;
 }
 
@@ -428,7 +428,7 @@ iframe {
 }
 
 .mobile-container .certoaction {
-	padding: 0 0 30px 0;
+	padding: 0 0 20px 0;
 	color: #1e1e1e;
 }
 
