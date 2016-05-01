@@ -14,9 +14,18 @@
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(window).load(function() {
+			$(".loader").fadeOut("medium");
+		})
+		</script>
 </head>
 
 <body>
+<div class="loader"></div>
+
+
 
 <div id="st-container" class="st-container">
 
@@ -35,6 +44,17 @@
 			<div class="st-content-inner"><!-- extra div for emulating position:fixed of the menu -->
 				
 				<!-- Change This !!! -->
+				
+				<div class="about-links">
+			<p><a href="home.html">Introduction</a><a href="game.html">The Game</a><a href="categories.html">The Categories</a><a href="designers.html"><b>The Designers</b></a><a href="stay-updated.html">Stay Updated</a></p>
+				</div>
+				
+				<div class="social-links">
+			<p><a href="https://twitter.com/letsplaykoru"><img src="img/twitter.png"></a>
+			   <a href="https://www.instagram.com/letsplaykoru/"><img src="img/instagram.png"></a>
+			   <a href="https://www.facebook.com/letsplaykoru"><img src="img/facebook.png"></a>
+			   <a href="http://letsplaykoru.bigcartel.com/"><img src="img/bigcartel.png"></a></p>
+				</div>
 
 							<div id="st-trigger-effects" >
 								<button data-effect="st-effect-1"><img src="img/menu-button.png"></button>
@@ -42,24 +62,28 @@
 							
 							<div class="title-logo"><img src="img/title-logo.png"></div>		
 							
+							<div class="categories-container">
 							
-							<footer class="about-links">
-								<ul>
-									<li><a href="introduction.html">01. Introduction</a></li><span class="invisible"> . . </span>
-									<li><a href="game.html"><b>02. The Game</b></a></li><span class="invisible"> . . </span>
-									<li><a href="categories.html">03. The Categories</a></li><span class="invisible"> . . </span>
-									<li><a href="designers.html">04. The Designers</a></li><span class="invisible"> . . </span>
-									<li><a href="stay-updated.html">05. Stay Updated</a></li>
-								</ul>
-							</footer>
-
+								<div class="cc-col1">
+									<p>Koru is a card game that promotes the discussion of mental health in a light-hearted, fun, non-judgmental environment. The card prompts lead players through the stressors and hassles of everyday life, taking everyone through phases of self analysis, reflection, empathy, connection, support, and—of course—struggles!</p>
+									<p>Koru is all about storytelling and struggling. It’s crazy how much you can get to know the people around you—the best and worst of them—through telling stories. This is how we bond as human beings: we admit and we relate.</p>
+									<p>The idea is to struggle openly. The more a player struggles, the further they advance in the game. Being able to share, relate, and assist gives players the upper hand and adds to the larger narrative.</p>
+									<p><b>The goal of the game</b> is for each player to achieve a new sense of self; to come together and grow stronger as a community by admitting our personal stories and struggling together.</p>
+								</div>
+								
+							</div>
+							
+							<div class="cc-col2">
+									<img src="img/bg.jpg">
+							</div>
+						
 				<!-- Through This !!! -->
+				
 				
 			</div><!-- /st-content-inner -->
 		</div><!-- /st-content -->
 
 	</div><!-- /st-pusher -->
-	
 
 </div><!-- /st-container -->
 		<script src="js/classie.js"></script>
