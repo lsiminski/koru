@@ -107,6 +107,7 @@ padding: 0;
 	height: 575px;
 	right: 0;
 	object-fit: cover;
+	padding: 0 0 10px 0;
 }
 
 .mobile-stay-updated {
