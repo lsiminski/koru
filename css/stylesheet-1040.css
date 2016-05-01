@@ -355,6 +355,11 @@ footer a {
 	/* display: inline; */
 }
 
+.cc-col1 a {
+	color: black;
+	font-weight: 700;
+}
+
 .cc-col1 p {
 	width: 55%;
 	font-family: 'Roboto';
