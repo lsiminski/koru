@@ -209,7 +209,7 @@ padding: 0;
 	background: -webkit-linear-gradient(#005AAA 0%, #2FB4D2 100%);
 	position: relative;
 	margin: -5px 0 0 0;
-	padding: 15px;
+	padding: 15px 0 30px 0;
 }
 
 .koru-caption {
