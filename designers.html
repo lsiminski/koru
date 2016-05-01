@@ -14,9 +14,18 @@
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 		<link rel="stylesheet" type="text/css" href="css/component.css" />
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			$(window).load(function() {
+			$(".loader").fadeOut("medium");
+		})
+		</script>
 </head>
 
 <body>
+<div class="loader"></div>
+
+
 
 <div id="st-container" class="st-container">
 
@@ -35,6 +44,17 @@
 			<div class="st-content-inner"><!-- extra div for emulating position:fixed of the menu -->
 				
 				<!-- Change This !!! -->
+				
+				<div class="about-links">
+			<p><a href="home.html">Introduction</a><a href="game.html">The Game</a><a href="categories.html">The Categories</a><a href="designers.html"><b>The Designers</b></a><a href="stay-updated.html">Stay Updated</a></p>
+				</div>
+				
+				<div class="social-links">
+			<p><a href="https://twitter.com/letsplaykoru"><img src="img/twitter.png"></a>
+			   <a href="https://www.instagram.com/letsplaykoru/"><img src="img/instagram.png"></a>
+			   <a href="https://www.facebook.com/letsplaykoru"><img src="img/facebook.png"></a>
+			   <a href="http://letsplaykoru.bigcartel.com/"><img src="img/bigcartel.png"></a></p>
+				</div>
 
 							<div id="st-trigger-effects" >
 								<button data-effect="st-effect-1"><img src="img/menu-button.png"></button>
@@ -42,24 +62,27 @@
 							
 							<div class="title-logo"><img src="img/title-logo.png"></div>		
 							
+							<div class="categories-container">
 							
-							<footer class="about-links">
-								<ul>
-									<li><a href="introduction.html">01. Introduction</a></li><span class="invisible"> . . </span>
-									<li><a href="game.html">02. The Game</a></li><span class="invisible"> . . </span>
-									<li><a href="categories.html">03. The Categories</a></li><span class="invisible"> . . </span>
-									<li><a href="designers.html"><b>04. The Designers</b></a></li><span class="invisible"> . . </span>
-									<li><a href="stay-updated.html">05. Stay Updated</a></li>
-								</ul>
-							</footer>
-
+								<div class="cc-col1">
+									<p>Koru was created by <a href="http://laurensiminski.com" target="_blank">Lauren Siminski</a> and <a href="http://ridahsign.com" target="_blank">Faridah Adam</a>, two graphic design seniors at The Maryland Institute College of Art. We started out with an impossible dream: to promote the discussion of mental health in a fun, collaborative way. Through a ton of research and social design brainstorming techniques, we found that a game would be an exciting way of doing this.</p>
+									<p>We’d like to thank everyone that supported us and allowed us to bring our impossible dream to life. We couldn’t have done it without all of the incredibly helpful feedback we received along the way!</p>
+								</div>
+								
+							
+							</div>
+							
+							<div class="cc-col2">
+									<img src="img/korugif.gif">
+							</div>
+						
 				<!-- Through This !!! -->
+				
 				
 			</div><!-- /st-content-inner -->
 		</div><!-- /st-content -->
 
 	</div><!-- /st-pusher -->
-	
 
 </div><!-- /st-container -->
 		<script src="js/classie.js"></script>
