@@ -102,6 +102,13 @@ padding: 0;
 	object-fit: cover;
 }
 
+.mobile-cc-col4 img {
+	width: 100%;
+	height: 575px;
+	right: 0;
+	object-fit: cover;
+}
+
 .mobile-stay-updated {
 	position: absolute;
 	width: 50%;
