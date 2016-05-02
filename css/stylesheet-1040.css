@@ -55,6 +55,25 @@ width: 50%;
 */
 }
 
+.mobile-lets-play img {
+	width: 100%;
+	height: auto;
+}
+
+.mobile-social {
+	padding: 20px 0;
+	text-align: center;
+}
+
+.mobile-social img {
+	height: 20px;
+	width: auto;
+}
+
+.mobile-social a + a {
+	padding: 0 0 0 30px;
+}
+
 /*
 .container-1 {
 	width: 100%;
