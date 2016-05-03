@@ -95,6 +95,10 @@ width: 50%;
 	color: #005AAA;
 }
 
+.question a {
+	color: #005AAA;
+}
+
 .black-question {
 	font-family: 'Montserrat';
 	font-size: 16px;
@@ -106,6 +110,11 @@ width: 50%;
 	z-index: 999;
 	color: #1F1F1F;
 }
+
+.black-question a {
+	color: #1F1F1F;
+}
+
 
 .category {
 	font-family: 'Montserrat';
