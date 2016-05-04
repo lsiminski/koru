@@ -104,7 +104,7 @@ a:hover {
 .instructions-col1 {
 	width: 45%;
 	margin: 0;
-	left: 0;
+	float: left;
 }
 
 .instructions-col1 p {
@@ -115,7 +115,7 @@ a:hover {
 	width: 45%;
 	margin: 0;
 	padding: 0 0 0 5%;
-	right: 0;
+	float: right;
 }
 
 .instructions-col2 p {
