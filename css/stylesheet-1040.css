@@ -34,7 +34,6 @@ a:hover {
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%);
-	border: 800px black solid;
 	background-color: white;
 }
 
