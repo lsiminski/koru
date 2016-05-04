@@ -138,7 +138,7 @@ button:hover {
 
 .st-menu ul {
 	margin: 0;
-	padding: 14.5px 0;
+	padding: 12px 0 14.5px 0;
 	list-style: none;
 }
 
@@ -153,7 +153,6 @@ button:hover {
 	letter-spacing: 2px;
 	font-family: 'Montserrat';
 	font-size: 13px;
-	padding: 0 0 40px 0;
 }
 
 .st-menu ul li:first-child a {
