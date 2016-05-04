@@ -64,6 +64,7 @@ padding: 0;
 	transform: translate(-50%,-50%);
 	background-color: white;
 	z-index: 8888;	
+	display: none;
 }
 
 .mobile-popup-instructions img {
