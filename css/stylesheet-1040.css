@@ -11,7 +11,7 @@ a {
 }
 
 a:hover {
-	cursor: hand;
+	cursor: pointer;
 	opacity: .3;
 }
 

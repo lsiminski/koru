@@ -218,16 +218,17 @@
 	  });
 
 
-	  $(".close-window a").click(function() {
-		 $('.popup-instructions').hide();
-		 $('.dim').hide();
+	  $(".close-window a").click(function(event) {
+	  	event.preventDefault();
+		$('.popup-instructions').hide();
+		$('.dim').hide();
 		 
 	  });
 	  
-	  $(".black-question a").click(function() {
-	     $('.dim').show();
-		 $('.popup-instructions').show();
-		 
+	  $(".black-question a").click(function(event) {
+	  	event.preventDefault();
+	    $('.dim').show();
+		$('.popup-instructions').show(); 
 	  });
 
     </script>
