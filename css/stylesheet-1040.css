@@ -70,11 +70,11 @@ a:hover {
 
 .game-play {
 	font-family: 'Montserrat';
-	font-size: 12px;
+	font-size: 11px;
 	font-weight: 700;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	color: purple;
+	color: #2db0cf;
 	position: absolute;
 	top: 10%;
 	left: 9%;
