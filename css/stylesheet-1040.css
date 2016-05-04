@@ -104,7 +104,7 @@ width: 50%;
 	top: 8%;
 	right: 55px;
 	padding: 12px 0 0 0;
-	z-index: 999;
+	z-index: 9999;
 	color: #005AAA;
 }
 
@@ -141,7 +141,7 @@ width: 50%;
 	left: 30%;
 	width: 40%;
 	padding: 12px 0 0 0;
-	z-index: 999;
+	z-index: 9999;
 }
 
 .certo-category {
@@ -156,7 +156,7 @@ width: 50%;
 	left: 30%;
 	width: 40%;
 	padding: 12px 0 0 0;
-	z-index: 999;
+	z-index: 9999;
 }
 
 .certo {
@@ -171,7 +171,7 @@ width: 50%;
 	left: 30%;
 	width: 40%;
 	padding: 12px 0 0 0;
-	z-index: 999;
+	z-index: 9999;
 }
 
 
@@ -188,16 +188,19 @@ width: 50%;
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
 	padding-bottom: 40px;
+	z-index: 9999;
 }
 
 .icons img {
 	height: 36px;
 	width: auto;
+	z-index: 9999;
 }
 
 .othericons img {
 	height: 36px;
 	width: auto;
+	z-index: 9999;
 }
 
 /*
