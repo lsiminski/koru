@@ -95,6 +95,7 @@ a:hover {
 
 .download-instructions a {
 	color: #1e1e1e;
+	transition-delay: 0;
 }
 
 .scroll-for-all {
