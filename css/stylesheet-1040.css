@@ -101,8 +101,8 @@ a:hover {
 	color: #1e1e1e;
 	opacity: 0.5;
 	position: absolute;
-	top: 10%;
-	margin: 0 9%;
+	bottom: 5%;
+	margin: 0 auto;
 }
 
 .instructions-content {
