@@ -70,7 +70,7 @@ a:hover {
 
 .game-play {
 	font-family: 'Montserrat';
-	font-size: 12px;
+	font-size: 12.5px;
 	font-weight: 700;
 	letter-spacing: 1.3px;
 	text-transform: uppercase;
@@ -90,6 +90,11 @@ a:hover {
 	/* background: pink; */
 	position: fixed;
 	overflow: scroll;
+	font-family: 'Roboto';
+	font-size: 14px;
+	line-height: 24px;
+	text-align: justify;
+	color: black;
 }
 
 .st-container {
