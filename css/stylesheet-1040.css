@@ -35,7 +35,7 @@ a:hover {
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%);
 	border: 800px black solid;
-	color: white;
+	background-color: white;
 }
 
 .st-container {
