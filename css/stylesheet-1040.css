@@ -102,10 +102,11 @@ a:hover {
 }
 
 .instructions-col1 {
-	width: 40%;
+	width: 30%;
 	margin: 0 2% 0 0;
 	padding: 0;
 	float: left;
+	background: pink;
 }
 
 .instructions-col1 p {
@@ -113,13 +114,26 @@ a:hover {
 }
 
 .instructions-col2 {
-	width: 56%;
-	margin: 0 0 0 2%;
+	width: 31%;
+	margin: 0 2%;
 	padding: 0;
-	float: right;
+	float: center;
+	background: yellow;
 }
 
 .instructions-col2 p {
+	line-height: 20px;
+}
+
+.instructions-col3 {
+	width: 31%;
+	margin: 0 0 0 2%;
+	padding: 0;
+	float: right;
+	background: purple;
+}
+
+.instructions-col3 p {
 	line-height: 20px;
 }
 
