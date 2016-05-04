@@ -155,6 +155,10 @@ button:hover {
 	font-size: 13px;
 }
 
+.st-menu li+li {
+	margin: 0 0 40px 0;
+}
+
 .st-menu ul li:first-child a {
 	margin: 0 18px 0 20px;
 }
