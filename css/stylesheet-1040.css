@@ -38,6 +38,15 @@ a:hover {
 	z-index: 9999;
 }
 
+.dim {
+	position: fixed;
+	width: 110%;
+	height: 110%;
+	background-color: #1e1e1e;
+	opacity: 0.5;
+	z-index: 999;
+}
+
 .st-container {
 	visibility: visible;
 }
