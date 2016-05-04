@@ -35,8 +35,8 @@ a:hover {
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%);
 	background-color: white;
-	z-index: 9999;
-	
+	z-index: 9999;	
+	opacity: 1;
 }
 
 .close-window {
