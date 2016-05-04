@@ -70,7 +70,7 @@ a:hover {
 
 .game-play {
 	font-family: 'Montserrat';
-	font-size: 11px;
+	font-size: 11.5px;
 	font-weight: 700;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -82,12 +82,12 @@ a:hover {
 
 .instructions-content {
 	width: 82%;
-	height: 75%;
+	height: 72%;
 	margin: 0;
 	padding: 0;
 	left: 9%;
 	bottom: 10%;
-	background: pink;
+	/* background: pink; */
 	position: fixed;
 	overflow: scroll;
 }
