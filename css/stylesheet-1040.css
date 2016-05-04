@@ -110,7 +110,8 @@ a:hover {
 
 .instructions-col1 p {
 	line-height: 20px;
-	font-size: 12px;
+	font-size: 12.5px;
+	letter-spacing: 0.5px;
 }
 
 .instructions-col2 {
@@ -123,7 +124,8 @@ a:hover {
 
 .instructions-col2 p {
 	line-height: 20px;
-	font-size: 12px;
+	font-size: 12.5px;
+	letter-spacing: 0.5px;
 }
 
 .instructions-col3 {
@@ -136,7 +138,8 @@ a:hover {
 
 .instructions-col3 p {
 	line-height: 20px;
-	font-size: 12px;
+	font-size: 12.5px;
+	letter-spacing: 0.5px;
 }
 
 .instructions-full p {
