@@ -74,6 +74,9 @@ a:hover {
 	font-weight: 700;
 	letter-spacing: 1px;
 	color: purple;
+	position: absolute;
+	top: 10%;
+	left: 9%;
 }
 
 .instructions-content {
