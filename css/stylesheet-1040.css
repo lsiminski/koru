@@ -522,6 +522,16 @@ footer a {
 	letter-spacing: 1.2px; 
 }
 
+.category-title2 {
+	font-family: 'Montserrat';
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1.3px; 
+	margin: 0;
+	padding: 0;
+}
+
 .koru-blue {
 	color: #005AAA;
 	padding: 20px 0 5px 0;
