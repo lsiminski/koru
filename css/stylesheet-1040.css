@@ -42,11 +42,11 @@ a:hover {
 	font-family: 'Roboto';
 	font-size: 14px;
 	font-weight: 300;
-	color: white;
+	color: #1e1e1e;
 	position: fixed;
 	top: 44px;
 	right: 55px;
-	opacity: 1;
+	opacity: 0.5;
 	z-index: 999;
 }
 
