@@ -72,6 +72,10 @@ a:hover {
 	width: 80%;
 	height: 80%;
 	background: pink;
+	margin: 0;
+	padding: 0;
+	left: 10%;
+	top: 10%;
 }
 
 .st-container {
