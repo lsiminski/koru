@@ -36,6 +36,18 @@ a:hover {
 	transform: translate(-50%,-50%);
 	background-color: white;
 	z-index: 9999;
+	
+}
+
+.close-window {
+	font-family: 'Montserrat';
+	font-size: 14px;
+	font-weight: 400;
+	color: white;
+	position: fixed;
+	top: 30px;
+	right: 30px;
+	
 }
 
 .dim {
