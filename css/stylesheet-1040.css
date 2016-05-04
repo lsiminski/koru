@@ -107,18 +107,18 @@ a:hover {
 	opacity: 0.4;
 	position: absolute;
 	width: 100%;
-	bottom: 4%;
+	bottom: 5%;
 	margin: 0;
 	text-align: center;
 }
 
 .instructions-content {
 	width: 82%;
-	height: 70%;
+	height: 66%;
 	margin: 0;
 	padding: 0;
 	left: 9%;
-	bottom: 10%;
+	bottom: 14%;
 	/* background: pink; */
 	position: fixed;
 	overflow: scroll;
