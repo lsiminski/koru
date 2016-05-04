@@ -38,6 +38,35 @@
 	</div>
 	
 	<div class="question"><a href="#">?</a></div>
+	
+	<div class="dim"></div>
+				<div class="mobile-popup-instructions">
+				
+					<div class="close-window">
+						<a href="#">x</a>
+					</div>
+				
+					<div class="game-play2">Digital Game Play</div>
+				
+					<div class="mobile-instructions-content">
+					
+					<div class="mobile-instructions-full">
+					<div class="category-title2">You Will Need</div>
+					<p>2–6 Players<br>Internet Connection<br>Permanent Marker<br>Sticky Notes</p>
+					<div class="category-title2">Icons</div>
+					<p><img src="img/icon1.png">Answer the question<br><img src="img/icon2.png">Share a related story<br><img src="img/icon3.png">Can’t relate to the prompt<br><img src="img/icon4.png">Draw an action card!<br><img src="img/icons3.png">Only the player who draws the card can see it<br><img src="img/icons4.png">Two players see the card<br><img src="img/icons5.png">All but one player sees the card<br><img src="img/icons7.png">Everyone sees the card</p>
+					<div class="category-title2">How To Play</div>
+					<p>Players should start by deciding whether the game is going to be played on one device or several. If playing on one device, refresh the page to draw the first prompt card. If playing on several devices: select one device and do the same. Whoever can come up with the best story to accompany the selected prompt gets to go first. From there, each player will take turns in a clockwise fashion, clicking the prompt or refreshing the page to draw a new card, and deciding how to answer.</p>
+					<div class="category-title2">Anima, Sensum, Empathia and Nexus Cards</div>
+					<p>When a player draws an Anima, Sensum, Empathia or Nexus card, they will have the option of simply answering the question or sharing a story that relates to the prompt. Regardless of whether the prompt is a group question or not, players are encouraged to chime in whenever they can in order to maintain continuous discussion.</p>
+					<div class="category-title2">Certo Cards</div>
+					<p>When a player draws a Certo card, they will read the prompt and decide if they can relate to it or not. If they can, the player will draw an action card. Before drawing a Certo action card, the player should <b>turn the device towards them so no other players can read it and read the instructions to themselves first</b>. After checking the icon to see which players should or should not view the card, the player should follow the instructions for the duration specified.</p>
+					</div>
+					</div>
+					
+					<div class="mobile-scroll-for-all">Scroll for full instructions</div>
+				
+				</div>
 							
 						
 							<div class="certo-category">
@@ -83,6 +112,49 @@
 							
 							<div class="title-logo"><img src="img/title-logo.png"></div>		
 							<div class="question"><a href="#">?</a></div>
+							
+							
+							<div class="dim"></div>
+				<div class="popup-instructions">
+				
+					<div class="close-window">
+						<a href="#">x</a>
+					</div>
+				
+					<div class="game-play">Digital Game Play</div>
+					<div class="download-instructions"><a href="#">Physical Game Play</a></div>
+				
+					<div class="instructions-content">
+					
+					<div class="instructions-col1">
+					<div class="category-title2">You Will Need</div>
+					<p>2–6 Players<br>Internet Connection<br>Permanent Marker<br>Sticky Notes</p>
+					</div>
+					
+					<div class="instructions-col2">
+					<div class="category-title2">Icons</div>
+					<p><img src="img/icon1.png">Answer the question<br><img src="img/icon2.png">Share a related story<br><img src="img/icon3.png">Can’t relate to the prompt<br><img src="img/icon4.png">Draw an action card!</p>
+					</div>
+					
+					<div class="instructions-col3">
+					<div class="category-title2"><span class="transparent">X</span></div>
+					<p><img src="img/icons3.png">Only the player who draws the card can see it<br><img src="img/icons4.png">Two players see the card<br><img src="img/icons5.png">All but one player sees the card<br><img src="img/icons7.png">Everyone sees the card</p>
+					</div>
+					
+					<div class="instructions-full">
+					<div class="category-title2">How To Play</div>
+					<p>Players should start by deciding whether the game is going to be played on one device or several. If playing on one device, refresh the page to draw the first prompt card. If playing on several devices: select one device and do the same. Whoever can come up with the best story to accompany the selected prompt gets to go first. From there, each player will take turns in a clockwise fashion, clicking the prompt or refreshing the page to draw a new card, and deciding how to answer.</p>
+					<div class="category-title2">Anima, Sensum, Empathia and Nexus Cards</div>
+					<p>When a player draws an Anima, Sensum, Empathia or Nexus card, they will have the option of simply answering the question or sharing a story that relates to the prompt. Regardless of whether the prompt is a group question or not, players are encouraged to chime in whenever they can in order to maintain continuous discussion.</p>
+					<div class="category-title2">Certo Cards</div>
+					<p>When a player draws a Certo card, they will read the prompt and decide if they can relate to it or not. If they can, the player will draw an action card. Before drawing a Certo action card, the player should <b>turn the device towards them so no other players can read it and read the instructions to themselves first</b>. After checking the icon to see which players should or should not view the card, the player should follow the instructions for the duration specified.</p>
+					</div>
+					</div>
+					
+					<div class="scroll-for-all">Scroll for full instructions</div>
+				
+				</div>
+							
 							
 							<!-- <div class="container-1"> -->
 	<div class="temp-container">
@@ -141,6 +213,32 @@
         $(".certoaction p").text(randomCard.certoaction);
         $(".othericons img").attr("src", randomCard.othericons);
       });
+      
+      $(".close-window a").click(function(event) {
+	  	event.preventDefault();
+		$('.popup-instructions').hide();
+		$('.dim').hide();
+		 
+	  });
+	  
+	   $(".close-window a").click(function(event) {
+	  	event.preventDefault();
+		$('.mobile-popup-instructions').hide();
+		$('.dim').hide();
+		 
+	  });
+	  
+	  $(".question a").click(function(event) {
+	  	event.preventDefault();
+	    $('.dim').show();
+		$('.popup-instructions').show(); 
+	  });
+	  
+	  $(".question a").click(function(event) {
+	  	event.preventDefault();
+	    $('.dim').show();
+		$('.mobile-popup-instructions').show(); 
+	  });
 
     </script>
     <!-- <script src="koru.js"></script> -->
