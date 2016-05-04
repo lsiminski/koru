@@ -94,6 +94,7 @@ a:hover {
 	font-size: 14px;
 	text-align: justify;
 	color: black;
+	overflow: hidden;
 }
 
 .instructions-content p {
@@ -104,6 +105,7 @@ a:hover {
 .instructions-col1 {
 	width: 45%;
 	margin: 0;
+	padding: 0 5% 0 0;
 	float: left;
 }
 
