@@ -70,12 +70,12 @@ a:hover {
 
 .instructions-content {
 	width: 92%;
-	height: 88%;
+	height: 90%;
 	background: pink;
 	margin: 0;
 	padding: 0;
 	left: 4%;
-	top: 6%;
+	top: 5%;
 	position: fixed;
 }
 
