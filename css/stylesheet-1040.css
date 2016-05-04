@@ -69,14 +69,15 @@ a:hover {
 }
 
 .instructions-content {
-	width: 92%;
-	height: 90%;
+	width: 82%;
+	height: 80%;
 	background: pink;
 	margin: 0;
 	padding: 0;
-	left: 4%;
-	top: 5%;
+	left: 9%;
+	top: 10%;
 	position: fixed;
+	overflow: scroll;
 }
 
 .st-container {
