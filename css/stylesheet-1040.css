@@ -68,6 +68,14 @@ a:hover {
 	z-index: 999;
 }
 
+.game-play {
+	font-family: 'Montserrat';
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: purple;
+}
+
 .instructions-content {
 	width: 82%;
 	height: 75%;
