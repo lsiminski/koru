@@ -647,3 +647,7 @@ footer a {
 	font-family: 'Roboto';
 	font-size: 14px;
 }
+
+.transparent {
+	opacity: 0;
+}
