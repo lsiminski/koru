@@ -225,6 +225,13 @@
 		 
 	  });
 	  
+	   $(".close-window a").click(function(event) {
+	  	event.preventDefault();
+		$('.mobile-popup-instructions').hide();
+		$('.dim').hide();
+		 
+	  });
+	  
 	  $(".black-question a").click(function(event) {
 	  	event.preventDefault();
 	    $('.dim').show();
