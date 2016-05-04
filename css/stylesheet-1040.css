@@ -47,7 +47,8 @@ a:hover {
 	position: fixed;
 	top: 30px;
 	right: 30px;
-	
+	opacity: 1;
+	z-index: 9999;
 }
 
 .dim {
