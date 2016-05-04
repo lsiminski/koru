@@ -91,7 +91,6 @@ a:hover {
 	position: fixed;
 	overflow: scroll;
 	font-family: 'Roboto';
-	font-size: 14px;
 	text-align: justify;
 	color: black;
 }
@@ -111,6 +110,7 @@ a:hover {
 
 .instructions-col1 p {
 	line-height: 20px;
+	font-size: 12px;
 }
 
 .instructions-col2 {
@@ -123,6 +123,7 @@ a:hover {
 
 .instructions-col2 p {
 	line-height: 20px;
+	font-size: 12px;
 }
 
 .instructions-col3 {
@@ -135,10 +136,12 @@ a:hover {
 
 .instructions-col3 p {
 	line-height: 20px;
+	font-size: 12px;
 }
 
 .instructions-full p {
 	line-height: 24px;
+	font-size: 14px;
 }
 
 .st-container {
