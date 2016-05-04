@@ -36,6 +36,7 @@ a:hover {
 	transform: translate(-50%,-50%);
 	background-color: white;
 	z-index: 8888;	
+	display: none;
 }
 
 .popup-instructions img {
@@ -72,6 +73,7 @@ a:hover {
 	background-color: #1e1e1e;
 	opacity: 0.95;
 	z-index: 999;
+	display: none;
 }
 
 .game-play {
