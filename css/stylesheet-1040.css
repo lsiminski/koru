@@ -47,7 +47,7 @@ a:hover {
 	top: 30px;
 	right: 35px;
 	opacity: 1;
-	z-index: 999;
+	z-index: 9999;
 }
 
 .close-window a {
