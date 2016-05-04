@@ -27,8 +27,8 @@ a:hover {
 
 .popup-instructions {
 	position: fixed;
-	width: 80%;
-	height: 80%;
+	width: 885%;
+	height: 88%;
 	top: 50%;
 	left: 50%;
 	-webkit-transform: translate(-50%,-50%); 
