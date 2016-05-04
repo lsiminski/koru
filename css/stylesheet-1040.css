@@ -70,7 +70,7 @@ a:hover {
 
 .game-play {
 	font-family: 'Montserrat';
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 700;
 	letter-spacing: 1.4px;
 	text-transform: uppercase;
@@ -95,6 +95,11 @@ a:hover {
 	line-height: 24px;
 	text-align: justify;
 	color: black;
+}
+
+.instructions-content p {
+	padding: 0;
+	margin: 0;
 }
 
 .st-container {
