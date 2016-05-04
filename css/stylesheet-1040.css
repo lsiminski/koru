@@ -36,7 +36,6 @@ a:hover {
 	transform: translate(-50%,-50%);
 	background-color: white;
 	z-index: 9999;	
-	opacity: 1;
 }
 
 .close-window {
