@@ -53,6 +53,25 @@ padding: 0;
 	width: auto;
 }
 
+.mobile-popup-instructions {
+	position: fixed;
+	width: 90%;
+	height: 90%;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%);
+	background-color: white;
+	z-index: 8888;	
+}
+
+.mobile-popup-instructions img {
+	height: 16px;
+	padding: 0 8px 0 0;
+	width: auto;
+}
+
 .close-window {
 	font-family: 'Roboto';
 	font-size: 17px;
