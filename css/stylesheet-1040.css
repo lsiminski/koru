@@ -38,6 +38,11 @@ a:hover {
 	z-index: 8888;	
 }
 
+.popup-instructions img {
+	height: 15px;
+	width: auto;
+}
+
 .close-window {
 	font-family: 'Roboto';
 	font-size: 17px;
