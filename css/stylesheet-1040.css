@@ -76,6 +76,7 @@ a:hover {
 	padding: 0;
 	left: 10%;
 	top: 10%;
+	position: absolute;
 }
 
 .st-container {
