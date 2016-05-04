@@ -215,7 +215,13 @@
       
       $(".prompt p").click(function() {
 		  document.location.reload(true);
-		  });
+	  });
+
+
+	  $(".close-window a").click(function() {
+		 $('.popup-instructions').hide();
+		 $('.dim').hide();
+	  });
 
     </script>
     <!-- <script src="koru.js"></script> -->
