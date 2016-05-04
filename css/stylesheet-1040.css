@@ -68,6 +68,12 @@ a:hover {
 	z-index: 999;
 }
 
+.instructions-content {
+	width: 80%;
+	height: 80%;
+	background: pink;
+}
+
 .st-container {
 	visibility: visible;
 }
