@@ -40,10 +40,10 @@ a:hover {
 
 .close-window {
 	font-family: 'Roboto';
-	font-size: 15px;
+	font-size: 16px;
 	font-weight: 300;
 	color: #1e1e1e;
-	position: absolute;
+	position: fixed;
 	top: 30px;
 	right: 35px;
 	opacity: 1;
