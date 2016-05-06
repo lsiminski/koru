@@ -467,7 +467,7 @@ width: 50%;
 }
 
 .mobile-coming-soon {
-	width: 90%;
+	width: 50%;
 	text-align: center;
 	position: fixed;
 	top: 50%;
@@ -475,7 +475,7 @@ width: 50%;
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
-	/* padding-top: 40px; */
+	padding-top: 10px;
 }
 
 .mobile-coming-soon img {
