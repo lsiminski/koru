@@ -318,6 +318,10 @@ width: 50%;
 	z-index: 99;
 }
 
+.certo-category p {
+	margin: 0;
+}
+
 .certo {
 	font-family: 'Montserrat';
 	font-size: 16px;
