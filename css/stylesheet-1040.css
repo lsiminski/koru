@@ -1,5 +1,8 @@
+html {
+  	background: white;
+}
+
 body { 
-  background: white;
   height: auto;
   width: 100%;
 }
