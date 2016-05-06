@@ -5,7 +5,7 @@
 @media screen and (max-width: 900px) {
 
 body { 
-  /* background: white; */
+  background: white;
   height: 100%;
   width: 100%;
 }
@@ -429,7 +429,6 @@ width: 50%;
 .mobile-content {
 	width: 84%;
 	margin: 25px auto 40px auto;
-	background-color: white;
 }
 
 .mobile-content p {
