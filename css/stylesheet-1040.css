@@ -334,6 +334,7 @@ width: 50%;
 	transform: translate(-50%,-50%); 
 	padding-bottom: 40px;
 	z-index: 99;
+	margin: 200px 400px;
 }
 
 .icons img {
