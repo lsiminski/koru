@@ -54,7 +54,9 @@ a:hover {
 	position: fixed;
 	top: 8%;
 	right: 55px;
-	padding: 12px 0 0 0;
+	line-height: 56px;
+	vertical-align: middle;
+	/* padding: 12px 0 0 0; */
 	z-index: 999;
 	color: #005AAA;
 }
@@ -109,6 +111,10 @@ a:hover {
 	vertical-align: middle;
 	/* padding: 12px 0 0 0; */
 	z-index: 999;
+}
+
+.certo p {
+	margin: 0;
 }
 
 
