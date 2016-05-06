@@ -88,7 +88,7 @@ a:hover {
 	width: 40%;
 	line-height: 56px;
 	vertical-align: middle;
-	padding-top: 1px;
+	padding-top: 0;
 	/* padding: 12px 0 0 0; */
 	z-index: 999;
 }
