@@ -332,7 +332,7 @@ width: 50%;
 	-webkit-transform: translate(-50%,-50%); 
 	-moz-transform: translate(-50%,-50%); 
 	transform: translate(-50%,-50%); 
-	padding-bottom: 40px;
+	padding: 100px 200px 140px 200px;
 	z-index: 99;
 	/* margin: 200px 400px; */
 }
