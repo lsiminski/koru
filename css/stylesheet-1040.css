@@ -355,6 +355,12 @@ width: 50%;
 	transform: translate(-50%,-50%); 
 	padding: 10px 10px 50px 10px;
 	z-index: 99;
+	opacity: 1;
+	transition: all .3s ease;
+}
+
+.prompt-cards:hover {
+	opacity: .3;
 }
 
 .icons img {
