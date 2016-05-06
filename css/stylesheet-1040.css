@@ -413,13 +413,13 @@ width: 50%;
 .certo-option {
 	position: fixed;
 	bottom: 8%;
-	width: 40%;
+	width: 100%;
 	margin: 0 auto;
 	padding: 30px 0 0 0;
 	text-align: center;
-	right: 30%;
 }
 
+/*
 .refresh-page {
 	position: fixed;
 	bottom: 8%;
@@ -438,6 +438,7 @@ width: 50%;
 	color: #1e1e1e;
 	padding: 50px 0 12px 0;
 }
+*/
 
 .goto-certo {
 	font-family: 'Montserrat';
