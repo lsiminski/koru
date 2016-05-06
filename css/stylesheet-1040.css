@@ -420,6 +420,25 @@ width: 50%;
 	right: 30%;
 }
 
+.refresh-page {
+	position: fixed;
+	bottom: 8%;
+	width: 40%;
+	margin: 0 auto;
+	padding: 30px 0 0 0;
+	text-align: left;
+	left: 50px;
+}
+
+.how-refresh {
+	font-family: 'Montserrat';
+	font-size: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1.3px;
+	color: #1e1e1e;
+	padding: 50px 0 12px 0;
+}
+
 .goto-certo {
 	font-family: 'Montserrat';
 	font-size: 10px;
