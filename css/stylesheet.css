@@ -466,6 +466,23 @@ width: 50%;
 	margin: 250px 25%;
 }
 
+.mobile-coming-soon {
+	width: 30%;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%); 
+	padding-bottom: 80px;
+}
+
+.mobile-coming-soon img {
+	width: 100%;
+	height: auto;
+}
+
 .mobile-struggles img {
 	width: 100%;
 	height: auto;

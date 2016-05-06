@@ -386,6 +386,24 @@ width: 50%;
 	padding-bottom: 80px;
 }
 
+.coming-soon {
+	width: 30%;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%); 
+	-moz-transform: translate(-50%,-50%); 
+	transform: translate(-50%,-50%); 
+	padding-bottom: 80px;
+}
+
+.coming-soon img {
+	max-width: 300px;
+	width: 100%;
+	height: auto;
+}
+
 .struggles img {
 	max-width: 300px;
 	width: 100%;
