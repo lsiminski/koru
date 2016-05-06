@@ -149,6 +149,12 @@ a:hover {
 .prompt {
 	padding: 0 0 75px 0;
 	color: white;
+	opacity: 1;
+	transition: all .3s ease;
+}
+
+.prompt:hover {
+	opacity: 0.3;
 }
 
 .action {
