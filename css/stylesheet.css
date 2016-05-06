@@ -429,6 +429,7 @@ width: 50%;
 .mobile-content {
 	width: 84%;
 	margin: 25px auto 40px auto;
+	background-color: white;
 }
 
 .mobile-content p {
