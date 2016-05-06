@@ -264,7 +264,9 @@ width: 50%;
 	position: fixed;
 	top: 8%;
 	right: 55px;
-	padding: 12px 0 0 0;
+	line-height: 56px;
+	vertical-align: middle;
+	/* padding: 12px 0 0 0; */
 	z-index: 99;
 	color: #1F1F1F;
 }
