@@ -1,7 +1,6 @@
 body { 
   height: auto;
   width: 100%;
-  background-color: pink;
 }
 
 a {
@@ -634,8 +633,8 @@ footer a {
 .cc-col1 p {
 	width: 55%;
 	font-family: 'Roboto';
-	font-size: 14px;
-	line-height: 24px;
+	font-size: 18px;
+	line-height: 30px;
 	color: black;
 	padding: 0;
 	margin: 0;
