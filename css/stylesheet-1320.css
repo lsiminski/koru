@@ -121,14 +121,14 @@ a:hover {
 
 .instructions-content {
 	width: 82%;
-	height: 68%;
+	height: 70%;
 	margin: 0;
 	padding: 0;
 	left: 9%;
 	bottom: 12%;
 	/* background: pink; */
 	position: fixed;
-	overflow: visible;
+	overflow: hidden;
 	font-family: 'Roboto';
 	text-align: justify;
 	color: black;
