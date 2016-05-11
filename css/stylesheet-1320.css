@@ -626,8 +626,8 @@ footer a {
 }
 
 .cc-col1 a {
-	color: black;
-	font-weight: 700;
+	color: #1e1e1e;
+	font-weight: 400;
 }
 
 .cc-col1 p {
@@ -640,10 +640,6 @@ footer a {
 	margin: 0;
 	text-align: justify;
 	font-weight: 300;
-}
-
-.cc-col b {
-	font-weight: 400;
 }
 
 .cc-col2 {
