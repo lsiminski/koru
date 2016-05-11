@@ -670,7 +670,7 @@ footer a {
 
 .category-title {
 	font-family: 'Montserrat';
-	font-size: 14px;
+	font-size: 20px;
 	text-transform: uppercase;
 	letter-spacing: 1.2px; 
 }
@@ -691,7 +691,8 @@ footer a {
 	padding: 20px 0 5px 0;
 	margin: 0;
 	font-family: 'Roboto';
-	font-size: 14px;
+	font-size: 20px;
+	line-weight: 300;
 }
 
 .koru-yellow {
@@ -699,7 +700,8 @@ footer a {
 	padding: 20px 0 5px 0;
 	margin: 0;
 	font-family: 'Roboto';
-	font-size: 14px;
+	font-size: 20px;
+	line-weight: 300;
 }
 
 .koru-purple {
@@ -707,7 +709,8 @@ footer a {
 	padding: 20px 0 5px 0;
 	margin: 0;
 	font-family: 'Roboto';
-	font-size: 14px;
+	font-size: 20px;
+	line-weight: 300;
 }
 
 .koru-turquoise {
@@ -715,7 +718,8 @@ footer a {
 	padding: 20px 0 5px 0;
 	margin: 0;
 	font-family: 'Roboto';
-	font-size: 14px;
+	font-size: 20px;
+	line-weight: 300;
 }
 
 .koru-orange {
@@ -723,7 +727,8 @@ footer a {
 	padding: 20px 0 5px 0;
 	margin: 0;
 	font-family: 'Roboto';
-	font-size: 14px;
+	font-size: 20px;
+	line-weight: 300;
 }
 
 .transparent {
