@@ -692,7 +692,7 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-weight: 300;
+	font-weight: 300;
 }
 
 .koru-yellow {
@@ -701,7 +701,7 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-weight: 300;
+	font-weight: 300;
 }
 
 .koru-purple {
@@ -710,7 +710,7 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-weight: 300;
+	font-weight: 300;
 }
 
 .koru-turquoise {
@@ -719,7 +719,7 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-weight: 300;
+	font-weight: 300;
 }
 
 .koru-orange {
@@ -728,7 +728,7 @@ footer a {
 	margin: 0;
 	font-family: 'Roboto';
 	font-size: 20px;
-	line-weight: 300;
+	font-weight: 300;
 }
 
 .transparent {
