@@ -117,6 +117,7 @@ a:hover {
 	bottom: 5%;
 	margin: 0;
 	text-align: center;
+	visibility: visible;
 }
 
 .instructions-content {
