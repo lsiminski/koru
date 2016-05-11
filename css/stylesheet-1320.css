@@ -128,7 +128,7 @@ a:hover {
 	bottom: 12%;
 	/* background: pink; */
 	position: fixed;
-	overflow: scroll;
+	overflow: visible;
 	font-family: 'Roboto';
 	text-align: justify;
 	color: black;
